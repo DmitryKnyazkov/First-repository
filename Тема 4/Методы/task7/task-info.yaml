@@ -1,0 +1,27 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: YrDiyxbCzLVCC26gatRsYw==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 106
+    length: 38
+    placeholder_text: '# TODO найти средний возраст студентов'
+    initial_state:
+      length: 38
+      offset: 106
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: tcacdeE0mNSP2Ef8y7Bg2agq3PmHFHlmmet3cm4PLP99wcVXDxMJBh1DeBD6CHiKORQzsPOxrE+gn9VlnWSOFw==
+  encrypted_text: Jnt8FkEgm7q2d9dxdG5GceDsv/uAwnrfmqqgprEH+/xqpYB9wxXqLURlX+08vfRwOjxi30tFnLWxsoZyEfuk1qT/Sj4FxdwbSY7PqUhYYjO+D9G0TtV+kPjmmB0K2kLVqHeJgHVvjEuO/2g8Q65QLikWIvdcfJewgs2R7uGlYjS4dsTglkRQtE8Xm3BjmoZlgzKkDDy8lKBWPH5q4uY1daAgDWfo74/3fZfu8GPs9nre2ReSOoLolm63TZwnYDIRFYjbj08orbM/f2KmZEPJYw==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

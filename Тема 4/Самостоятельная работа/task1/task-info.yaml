@@ -1,0 +1,30 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: WWEAeYTzRpdwjf5QpyppzYcd/UkPsDv/GqXOBEgsinY=
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 59
+    placeholder_text: |-
+      # TODO реализовать функцию
+      def remove_whitespace():
+          ...
+    initial_state:
+      length: 59
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: b6lBHfkv2BejshvJ81OgxaOtvu9ZXHrr9PnWnQruVXT/qTOwyZzLffCq/hRU36fNplCM/O0GklySayJAogVpapHklhkTj+N4iFQVFX/ay1Rv55cB9XPL3h3VAd7XE3hFktgQvMMYmfWG9wF6M9bXWdsntXXytFdF0sct07bDRMSyPgSFi+oq6cMYS5XdrTzBRo1snPx0WjSe5NsUhNx/IP5MYt2nkMrDBenKCw4XzqpWQleyCIcpT2xneCI51HvOKrCGVRxOsaPonqhg2PuFROihBYnqtsog0gNY76OdPXaS5EjaL7F+yOcZ6QC5TWTdwQ39234uPTN14H5lt5aup/PQsmxoGLQzUXyICiNB7ao=
+  encrypted_text: KkJ7ihHu5HS3byluSJIlb8afiF3NK79y2txtfKfLXCnYShQTSve+IcYfoa61g2iJb7eO4pEDuS82MebOkDJnKk103G3FrqdLnI8yBaro+AbTp6+CYYkZGtqhryqMCJtwzwudQRMAcfOJuFLYUfh0q94RkYiJG+vSW130NeqI/Rl3zS4cWz3BAbqJ0+oxZ8MFU3QXGPuAPLS2h0k2N//gw3ACjH36jAYMwiFtk0vlyfzxr7VkQ6IHKxVsBodva5TY8gKWF1LFwP1P6czsktbJ3WSRm4mNrV6pcBjbzHP/gEE=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

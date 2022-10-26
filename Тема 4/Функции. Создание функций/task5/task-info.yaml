@@ -1,0 +1,56 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 27
+    placeholder_text: '# TODO Вынести константу pi'
+    initial_state:
+      length: 27
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: b7SStOlnn9u+ex7EecgzxQ==
+  - offset: 38
+    length: 185
+    placeholder_text: |-
+      # TODO убрать аргумент pi из функций и заменить его на константу из глобальной области видимости
+      def square_circle(r, pi):
+          return pi * r ** 2
+
+
+      def length_circle(r, pi):
+          return 2 * pi * r
+    initial_state:
+      length: 195
+      offset: 30
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 12m1hfU293J2qpKxp+Hl/3XwdCKXTd2dkN3jmnHEjZyyEhdn77KZKsFXO/KOnkDzj25nsDAdDwvBQz5ZGK0ZH48d42XrjyCQ80WhAkWHrAunUNq3QZuYSIlTVrhb+UjE
+  - offset: 253
+    length: 102
+    placeholder_text: |-
+      # TODO подправить передаваемые аргументы
+      square = square_circle(radius, 3.14)
+      length = length_circle(radius, 3.14)
+    initial_state:
+      length: 114
+      offset: 255
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: VIgh9F+0tflxGLc2vd0ydcaDWD15Oy1049DHNhWaBKJhkRIK0TFi7XeKxHT+yW2teY2Q03BIG2LYsDi9tLAMMQ==
+  encrypted_text: BOgas6mJJiugxInLdNI5fpisT7WZ5iTjVwWuPY+4FkKYvz8SVzpcvhIP7iP2p/Xh+TnR2k2phWliVPsmpXiz946PSThDxqoVokNq30ht2Hi4HHpBCMg2FvLXatMitQCypEQCc3MyM2LVQf61V9LoccTnEXqsdsYNjPTDEyZG79HrHr5eYmmg0x6ZqitXawhBtULGJNVTQ6MsgjKNuQmMUB8BqWFe79mRyY0KQGvyy7XzlY4/qTzlpjCK9UJwqZYs6eFKldUXZlkpB3oJNIJkvUz5lNxb+1WLLjcZQ9cfF80XfmYXbPKeU7Nefixc9MFr6c5yl4pyWN01GaEnD9jDiIkNTsYMs2EtMyIn2ciuKeHywU55LTJONwtczhFtT3D+Y/st88sIaz7rpVjlGo6YFK96zoEyPUG4iep5rPqMdb6hE4xOgyjyYTYHWpkdlFPvUAKIRS0tRHcNuBfv0dKTJlokbsoQKHYS08N4w+ZtV5hrwuibs6L1WL9PR2HZP7fgS57lGrzAJhRAJmGFhcMn997rRGzgB+rkMOk2bfBmqfXTddb4WIy6MSbnkWmZ2Zrbd5RU3fdbWomaxjt2VAXv1/tJu6Ern4VdsEvQETKCkbLVBpm8dPCW5eHHnCTUjsEbnf8JXdtIW/hq698JgcnG+dhnDo4gsmrltjxOe3nTfe6/jc/TwrnoX7BNMl7fKEWoS/3+PM/xb+CdFZhqJSAcKqC67TRNvtoPqvC8nlIfItCV6D7B4vGlUlVt67F4BuNFz5LKf8foS5JttguDwYx49fOjp8jg+dkdUMFZ8bivpLuMKHO+v7A+W50CJZt8FfpG
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  time: Wed, 26 Oct 2022 16:01:11 UTC
+record: -1
+post_submission_on_open: true

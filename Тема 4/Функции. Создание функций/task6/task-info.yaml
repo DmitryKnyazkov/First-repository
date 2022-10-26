@@ -1,0 +1,31 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: In7FPEQVd3Hsx6tBw3hWbJRGY+BBNV/xL+aSwRgEAN8=
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 259
+    length: 58
+    placeholder_text: '...  # TODO проверить что в строку входят только символы 1
+      и 0'
+    initial_state:
+      length: 62
+      offset: 79
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 8BRQM93RQH7xsleRHmfgWXFODi2HXg883cZINDaRKueBppqBSbqM1GIOVLlGqTfpIZOBZkiozpyHcUxlZntHYyL4dgliZ4/PU5LqYrL+3peMQsk36MIuuwiKcXfgXGPI6zoq4pBAkZ9bR/ojSAEcZDQcSVwCC1e9qznJp4UcZ9GnrKxflasKtmgnsZg/wFN11bVtrau9xHNS9niHUqT6b++KIOf0hE13rzwpITkVePY0rHUj4GT3DK8nj+PgbCMgvq3wWRA2Op5TTzUh5AAAww2iKsAzyxyf82InEvhs9Sw=
+  encrypted_text: qRkD+tyN5mtshChkWryaffcRQB7R3DbZPL8Msl0Dd8qYF8Igp+fCX6kTFWmXCR3YFDNhUuIbtVZqjKS222B6Hxkzi+sb2rwWxQ8ZdsvPMF6pruGpproqpdEi5bqeWyf3+rHuk+Uof7OONJVdwOuqXLcQwW+eXs+kFD6iKofHR6Np7lgwCMXyk0l62N0ezx5Y18NOkZqMTuxvPMlvcz626kTeBI1cS4WrEYGrkX3py5+PjDGg/hsoIfd20nohsFiozZpxDouxvgf4TpSLCfAfRNZFlSQK9ikRielBwGXAAMDvqd0ds92ErRg4yY2Ev9A+0QoHxQl0mu35RlyECREbVqBx350CO3AnKMgfektKqq0BRT4Bm+SVcNqotvwr0MQ0VeddH6BHSDsBOPZE02jhLlMjhMWzPWPLkG3rtsxo4roy8EizmiFNjxOO8Pz9lsg3
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 26 Oct 2022 16:16:43 UTC
+record: -1

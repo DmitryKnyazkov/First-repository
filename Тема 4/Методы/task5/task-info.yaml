@@ -1,0 +1,30 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: +66BgJxDgR1QPrPDWKx05p6iPI+XUnBS+9Rbpezx3t8Yi5YFD5GoAkBrOwjvBUoGyu0d8UQN7u+yhB/a/eTeFrHMOFC9F7upGEfAUrf09I6DHJds10duzDueB2iY7QkmpWOv8+p2NPIngwoyb1lAqg==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 60
+    placeholder_text: |-
+      # TODO реализовать функцию
+      def get_sentences_list():
+          ...
+    initial_state:
+      length: 60
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: VpkOOh1PKTVHCiKtyV/UgAuRrQrSvZjUJtT+hpqRqEmS1UFaaxlcarKP+PE+rZ+r2vfMfFg6SXHFxfaMmG9HYd3YYY+X8RafugBQaVFbRrbyXhLPlPTvOziGItOrWYpk3qQhgKgketd46zlFyo650NViH5Ntj93yJAzjBIvGD6h6iGQITi5/hOtaOP0dW/NoU5IAdVDURpCyVB+GlkVzwVSaE+Lbe1YhThzqRbQPUtbO3+fRy2XhZPajvRzrOF4KJIpOh9xwAMz6zozYpIrxRw==
+  encrypted_text: KkJ7ihHu5HS3byluSJIlb8afiF3NK79y2txtfKfLXCnYShQTSve+IcYfoa61g2iJPGtXMaUi3s52zfEGmIqmzFCYULoj8Lx1Nerp5x6eTqFN7MUl08Jv7n5VLy9cMG62qs58pyMATDHIRCd1547LsP6YxeKYROdtJj+XNR2asXklgvetONVwE/U8KlDIOk42HKF7JgXQ31umG5qwL1xPqigTxFqVyoCDk0QXKIv9lk611P86fVyB2zkNizUiAThqkcJC46bNKzakHaKIKFnJXPd/2bKCsIJUgcs9gZ41Q8A=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

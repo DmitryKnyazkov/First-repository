@@ -1,0 +1,30 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: uz+gJJmlCPeVnuF4407PCrdTaPn8NcTpuw68+Em6SRc=
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 48
+    placeholder_text: |-
+      # TODO реализовать функцию
+      def insert():
+          ...
+    initial_state:
+      length: 48
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: z8aud+4Y1wi1LOQCzXVyEB5PVRhdBMeTH4Q36hvl1BNjTyNwI+zFjR//6CjovYjtDQ+qahueRzwg4HWsNQt9mZEgUvTxDlP8odiFwIsHR7IGg4obIIOzXRtyRoZSTtyN
+  encrypted_text: KkJ7ihHu5HS3byluSJIlb8afiF3NK79y2txtfKfLXCnYShQTSve+IcYfoa61g2iJQ7VaoWWsuVfQjHobngs0Xg9wC2cDTOp2U2bG+LG9GAJttSdzo3BhLk6znvbwUh++Zv4Cp15sR8ppWKsCONZaoTVWC4t7BdHTSoUOz3XJSddZlyOqmyNi8k5LCLqk5il/NfQhZ5KK0H1gtAkDyqZv2X34r4M77R2lCF+hgbyud0Op/HJwiAGccW5pBf5q7v22xTf+kFMo0dG2wcco7NzLw6pJ0OzWdUS3UVAXOBEc/wI=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

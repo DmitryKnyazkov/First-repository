@@ -1,0 +1,41 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: 4PD78NxHVytQBUAnBtAqpw==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 39
+    placeholder_text: '# TODO запишите здесь функцию factorial'
+    initial_state:
+      length: 39
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: CvRM8VzBPpFdaZTgf2PaKeillz39ZM+dhYwPFX5T84c0eYewapfESQ6kZB8TprZA+tacV98xvIuwQFFzcTJt/1F+yJ5moJixRDg+1JP9DXtLzY5CyuNioiunQbeKnStwhCaKWbDCwbcy3G/GaU34ww==
+  - offset: 168
+    length: 68
+    placeholder_text: '# TODO распечатать результат выполнения функции factorial от
+      числа 5'
+    initial_state:
+      length: 68
+      offset: 42
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: CRrRmW8y6vUqOr7BBYz2GJcpML/GLkorRVJR1TkTuu4=
+  encrypted_text: MlkPSz2a9SYI6paAoIMaQdC6c8a2yndH4E6P3g8+2R7z9+feGCCjl1vBDFWDcY40tbqwL2bHdW/MTuVUGXmFPdwbLhqfDiKh747ZW9Kip4aL0AHxeliHjIHjsDazRK1xsGb73EwTP7ADJdDuuI36ODmpxTcA8Fk5/ji4GD3JQ1frQ0yzPBWphNe8/bcaM90FOt0dpI/z3wFV5AqeM1VF7qdMMkLipYPgTy+wRCk0XCA=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 26 Oct 2022 15:46:51 UTC
+record: -1

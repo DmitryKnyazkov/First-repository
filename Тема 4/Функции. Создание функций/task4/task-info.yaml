@@ -1,0 +1,45 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: JwPuNKj2YI2aKljUNISNXtZ59CwG/odNEyc9Md3X2snhPUlcGUxYFbtHnnuCJgUXBDYTBKmZ6DN5+hlJJGEcWSGFSynAalc/ptpsge0dw4g=
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 38
+    placeholder_text: |-
+      # TODO оформить решение в виде функции
+      count_stairs = 4
+      for i in range(1, count_stairs + 1):
+          print("*" * i)
+    initial_state:
+      length: 111
+      offset: 0
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: QOQFsKJ7TNlHi0RzcqqelwVB/gwLDYOX/QjxVBTXgtgKRPxsTM2CHOdw9ESwvXoHcsrhmqeyHbxD4p0xtJW3FFCCvMieyhePP0/4lGXlFKoLpEEMuOS3WkfNbvgmkN516jLKXasThbtiAFL1V54j9g==
+  - offset: 154
+    length: 62
+    placeholder_text: '# TODO вызвать функцию без аргументов и с аргументом равным
+      10'
+    initial_state:
+      length: 62
+      offset: 114
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: 4cwEiQcd5TPCdi0R6yjnhufTh4ELKcadmhTdpPcRlzA=
+  encrypted_text: OQEZphLAm9VBIQJRVgS4GVgDUs14rtCbb4TTgBUCstyDK0z2iMFy2obBwQr2e4k7aKOTkFMSYokzZxny9yJiiPyqUJIbGYOMsXLnZHy5pJkWp4KoIFm4Lu+k4hp8hcbZzFN/PciyCKNI9+6EIfoO+Nz+VYQoy7MG2ogTHUKWCDdMYODP/x3MoeUKm2iwRY0cEQVqmEvBOmx8M8vB0W11XBH6hYtaQvFeIg6ZUebrLI+AqIuz5z67YUleF05ygil9CRRPASu6kEF31MsWtibIJC/Pb1M5JN+v3GLgOMHvzyeRuBMUsifFdhrMORUspC0cW/UvDI5GX7VUlGrA7D0gLg==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 26 Oct 2022 15:53:45 UTC
+record: -1

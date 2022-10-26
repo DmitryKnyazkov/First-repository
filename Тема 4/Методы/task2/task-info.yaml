@@ -1,0 +1,38 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: hJTr0Xd0eo9VVwlFnvXxzuQhUdZxokTgwECVESS2V8NaeGqFbm0cv2+SRD0lCuye7duBP9jbxcs5ZqBUhbm3lwFyAjzg3c8oCi8B4Ul4p4w=
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 121
+    length: 68
+    placeholder_text: '...  # TODO привести строку к единому регистру и избавиться
+      от пробелов'
+    initial_state:
+      length: 71
+      offset: 29
+    initialized_from_dependency: false
+    selected: true
+    status: Unchecked
+    encrypted_possible_answer: oAVT9BxkNZ0zTL/sBRrYngHUTbuA47i5amdXRPpHG8aprR3yqZaujcDObxIVilEt
+  - offset: 195
+    length: 0
+    placeholder_text: 'if ...:  # TODO проверка палиндрома'
+    initial_state:
+      length: 35
+      offset: 106
+    initialized_from_dependency: false
+    selected: true
+    status: Unchecked
+    encrypted_possible_answer: jO7FtIyykD+WBzXzJPa8cqljwLlKA09SEZFLrf9/vgJTlpTS/HLKeiBfRitlyb+1
+  encrypted_text: AVIfO3jTm081tOdyH3Am0DpKmtCsAFS4/NDDFHSnNFmvrLWLN//hGTxoHpZKsW/0os0Fax06XoYw04EQzevR0oN8x3M8+Yx1Yf2caQlj7swNaDhxHZwtKNZgyJP1QEDl1FuO5Gs+2F9dS4vnfPhgcg690VjKccvvvK49LDS6Z8ET5rml91zvf4k9nuc4dnl+aQIP/9mpywLA/2eIooN4AxZcLs1x8v1w1OLutbIcn4asoV8Av0m0Z+Oiceeb6uQWa06Fs5mFsr+OJ/Q6JI5m2lWSUyibBvf3eH1Lt55f52TVbJKM1OlxOhnZMzX5790AHvTUgt+sG3JMb1x9m+H38G290M7oqNfO8gsdMmu/v8cpJNUQoqizQvy2/Q5eoWDOyI0zn9CHEIYPkQFj2Ni59HI33G1fhgu7BvUJ7594F4vgTMlhpFsEm4KYpSwW5k/i41P3H0ZTGpRDHBrcLoFWdXTwryJXmiNh6lwTnOXqjMAgkkl2bDDkDgSaty4ab/ghf8+N5JbGF81bmFOBISwz3qHvctcmFU8tt2gEeqB+fncjHhe3ZIsVKTGGpvFhLszT
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,30 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: QZiQX0oVThjg9HWkYM5+Tw==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 53
+    placeholder_text: |-
+      # TODO реализовать функцию count
+      def count():
+          ...
+    initial_state:
+      length: 53
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: wTi9WZU4P7uzvsasAnz2+tBhj0GIuTaZiRA7dRIMcT+tBA3wAx1irVS3/sbXzi7NV8+zipXUJ6sUqCbvGf0L/ytN7q6uJlQ33WYQfIKXGrACCf0E6I6BCHmSurIb++bw7AWDxHV0Pe4TEHOx5PMbkqRpwRseyy0LNRAWt+lM9Kh1iTmL5Kr8Ac3RzXeoS1jEJc08H093Jxxmn6+zLI7S3+N7OSMxUdy7qgIumDC7dDA=
+  encrypted_text: KkJ7ihHu5HS3byluSJIlb8afiF3NK79y2txtfKfLXCnOC7fiYbDrSuqchLL2dEKBLphGFeZmzQRFBG3UHOTHH9j+BbM9+v3SXPH6ngN22LrSp9Z7FLdxmOpIXQrDo+I2c/p0TibWuUymQUj+e3mImTe5BHxSsfIgTine+YJ+HwrsqYir6LxSiJwvftIOWA3DyKjojp2OkaX8AWyHkuqpuR49DZkA1ynSdrW41WZ+iMBuFxRsXCp5pfztECl5O24fZ6TBS9s8RmAfrZAN5uNSiPZdT59F2rd9kzjzSIkB+u0=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,30 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: q99ke3ztQYX972aFTboBRnk4PqFrpGyBdc5PJrMqcmhoRD+jDSnHJz9OyTj5S/x8+5f+x/2bsgC3NoI0eYbEk6cKZmBjGzpXXyOVb7l51amcQNiDQD6794u7PwEH+0pX
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 183
+    length: 44
+    placeholder_text: '...  # TODO найти список делителей числа number'
+    initial_state:
+      length: 47
+      offset: 42
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: YhERs/Hcpdk/XMGZacsDSC4LINXZ33XHwmWeLGd//8Npw2Ob4UUOujJEk71/Nwgnr7+l1siYzCqoHXSqi50HqNZzodBqjYATCZpIBIPeOqOqhJOq/OqUdaxhFoDPkqjE+YlY8m/qc9W2GP7WLeQ1D15lOycOMPsa+k65zfpN7UtmuVu/MctINjRE/p7iav+AZsN7SD9bGTbTVyAQMn9rzA==
+  encrypted_text: lKSVbok2viHHCSiyy6/Sn0M6I8DZFIDixULHCcwQitzsXkd/SkWOrFHDt0kammLPArFNSo3gJ9CSo8DwCHEUb/fjehKQbmxQ6tnFkSZMXoiLi7FwoF2VabJDLwhTj7Gr5ITIiX3s6OuDENPpXwLdeiV8K9d696dJMstmx/yVnieI3xccyjDTaOKqkCiuSVCZN2kdbMOdOOlxklmmpZuEnwEMVPaV0+4kHg13rCllX3oxZXZOXer6uAck/vkeaW9kXPAcVpuY0D6ztWnLWWUnAg==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 26 Oct 2022 16:48:58 UTC
+record: -1
