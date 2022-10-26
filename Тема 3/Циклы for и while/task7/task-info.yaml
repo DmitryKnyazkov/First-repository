@@ -1,0 +1,33 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: PgK5UkpIgcO4vSC9n9AIgg==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 982
+    length: 43
+    placeholder_text: '# TODO посчитать количество русской буквы "а"'
+    initial_state:
+      length: 45
+      offset: 906
+    initialized_from_dependency: false
+    selected: true
+    status: Failed
+    encrypted_possible_answer: 2ScOfuctGx8+oVB9+vB8GEJi4t3GY87vtjIB+3wvlw+zBzNi85buYi1oibQvYshgcE1Ramb54qGTzfPcQErB7MLw1cGeQOI9dT03wEvSPIyRQly0jmXSHpKBt9aI/DCe
+  encrypted_text: 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
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Failed
+feedback:
+  message: Incorrect
+  time: Wed, 26 Oct 2022 14:59:49 UTC
+  expected: |
+    57
+  actual: <no output>
+record: -1

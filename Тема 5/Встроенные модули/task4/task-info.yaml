@@ -1,0 +1,24 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 57
+    placeholder_text: '# TODO написать функцию, которая выдает трехзначное число'
+    initial_state:
+      length: 57
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: qfsGgOCumdmJ4tbXi5aT9fQVjrZJSgHp3uEkI2EYCyTglMGhBE+BmW1CpeF4uyPlxqRMWJG1KCXRCMreEmjxH7r7C5RntfzcZ8PEXiv7Z2O5SFR2eyLPfFivbPlrdqi5Wu68Uy0U4UhYYAZAn6i6XpxZ5FSjC8Zk3iA5HLv5pQ6ApzdUKZqx78v95xUxkB2iWth9OfPuT2MR0R66KkaEXMHDIupquL0zLGomE55LYocr0Gj2zfvVtvuyYfoh/aNnqh4uTo4nHnxAzmhADjl3A0dKrjjVlyeVfvHdc5XoTmSv1RBYc+gTjDhYznHCDrOk
+  encrypted_text: l7exSzq6xdZd2E6OinmQ1YEqO3ETuro+I2AACVx31vDXlf/51yOwJaFNIeuL0ge2xCjl+LqQxelw+wzbIkNRAIuCySGv2n01hzBvN08LJe/H8pfLrNQ/gWsftxFYHNgQO/b+Za5oqOPEkmPjKy6cTw==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

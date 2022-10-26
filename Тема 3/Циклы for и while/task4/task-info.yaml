@@ -1,0 +1,30 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: W4ZNN88Cm5aXEsg6GEX5+A==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 75
+    length: 26
+    placeholder_text: '# TODO распечатать лесенку'
+    initial_state:
+      length: 26
+      offset: 17
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: +v1s5enUC5dP38t0hE+Kh0BabECV0LE1PQGhkc7fSZFeeHl5ywAZlf1WX69w9fyUqI6dcgVMX83LdefS1Jjo6Q==
+  encrypted_text: Habe37I5FkULCJybdp3DbMA+Xp51YdWaAy4GqD0zcHJ8RcFmmIrDpJB0lX8SNpaKPkEZdMwu1PdoCGs5LbdBTA==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 19 Oct 2022 16:27:04 UTC
+record: -1

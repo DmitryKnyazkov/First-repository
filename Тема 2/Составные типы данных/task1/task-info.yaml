@@ -1,0 +1,30 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: W/mlOWRTeyrS2LN6IBCB7A==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 58
+    length: 22
+    placeholder_text: '# TODO напечатать имя первого игрока'
+    initial_state:
+      length: 36
+      offset: 58
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: Igu0GkfvYtLC9NvUiegxE+sjlQFvZjnxPq8xGU+j9g4=
+  encrypted_text: o+K3viTHHrAWerK0AJetF+gLV9ir4y9zQQAcKEGpIW4trfw5J+zIsrr6r4jOuSozvip/8u3fBOMR0Dfwt0HcWVcWqpxbQ/3t+OrvnBrQfuQp7PtI9XG/ESVzwiNqgDiRXzHUsMOS3d5HbjK5+YPDOipDYibvtu8viJp+o7+ZK6MsC8PCV7+j1u/r5Sccurp9
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 12 Oct 2022 16:15:57 UTC
+record: -1

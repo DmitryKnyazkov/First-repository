@@ -1,0 +1,27 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: AaIRGm3qTNDxRY6IZLJbnPMDQwd1v7HTtEMCAEOgIpmleNgryZ04Ctb6bzQOmCQ0WR9s4XEG1951cP5bYEFZi5rRxQsZ3D4uFh7u99Oaz9Q=
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 66
+    length: 46
+    placeholder_text: '# TODO Распечатать игроков в обратном порядке.'
+    initial_state:
+      length: 46
+      offset: 66
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: Igu0GkfvYtLC9NvUiegxE3mzttflukK6LKk2E2vOlJo=
+  encrypted_text: o+K3viTHHrAWerK0AJetF+gLV9ir4y9zQQAcKEGpIW4trfw5J+zIsrr6r4jOuSozvip/8u3fBOMR0Dfwt0HcWSYXBz12YqgU6T8RjgUgsdZtyNJF4dM6Up/meAo6i8FjrCWeU3tzTcZFq1P/tJHeWXi8CM9rbwSlWb/uBFZPRDL842muoWV/YeXy7PvGo/6rgUzb5cxdOf3jgSWOwQvlTqYV4s0fXnzxg18RNQvaxfs=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

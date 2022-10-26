@@ -1,0 +1,37 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: MBfp1NdjKcK1B81nyD1wqox4LjlKEqIF93WrCx1WxIcnIroVp4xklRvY2sb+srxC5/Y2JUb2wut6y2uBVHkvhTlOWo/kI19QNjTHwkNJ/8I=
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 28
+    placeholder_text: '# TODO импортировать Counter'
+    initial_state:
+      length: 28
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: UBbMl0OIRqYCv1m5AkVBNGf0NAWOsvczY4v+Kgbg/iuSGwhM/RMsipBmw5Njicy5
+  - offset: 581
+    length: 38
+    placeholder_text: '# TODO подсчитать и распечатать фрукты'
+    initial_state:
+      length: 38
+      offset: 581
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: RoMEs27hTsMKvqENahzlq9JH5NxRYeADfFyJBpf/T53r+4NngkSw5QNGgmibZH3VVXqY1akvDLybK3HtjA+now==
+  encrypted_text: QfAQzrQJaCeE9j74ahGp1tnG3IRz1HNylw8uqgESsJV51ZyX8VDlTql0Y+4GysDXFrt/IRFtRpfo6+ZeD6KXk+wXwBF7rF5MZGKKC8nxSs5K3IUrER9DjRjKbSTMQTKN++hASETMUUKXRdceITalAgSD8vfiB5+w5ssGVsQwA4BjfIREexuUTiq7oToyT+Au+45YujtKLXjuvuOiLY4LaNRMzDfYRhv/Ac3MtFfxg3DSrlsduz3kb1SMgvSVa/w9a6ff/2Elh9LYfTxzFfB7m43fPbdZAG6vGPDM13Cil1n/x3094AjapY4JLosCBsmh++gKFpoSEqu7ScxlOvoPl/Zms3dJzMQi4JIbQu1C+nWv2e4x0aaeCqNmZxZJ1caZWTUDs4acqikOg9zDe3ncVl8yZYQSIQaXZ8ePEPxf8Y1aGsyZ1lIIIvhZwYsYaqYGqYY22ZeznosxejuYFqpzGGklANQM++hqZhgRszsH5gmMrS5GetsR9YKpAdooicugMoV30OuX/IF8JHre9V4g9dJIMbT2Ch5QUGf3OZ9A2KaISzrCgTqux4Z45eQeXV3mBlY4cUKX2ryOExVJ6bHH1vCMcF/KOvvLk1zV+jLBJZGfeFHaHJBd9aM6uZqNycpwlGl/AivUz91NvwdJZjkqRpRMsN2xNBtxcXP9FGz7DMHMQQrKsPSMV7U0RFSmjilbABkxeZzYmMEzaWFaIFUPcPODa936hmVFj61FYYecnXwy3Qe0p/d6Aqa5RZmOK9FT8pjcRyIN9VKoowFVELbb1cEtAtpJpkwxIIi6D3mnG1TYFywVX5GDpMkV+NVpgiiZOhbbLhx7+BuN9u8TrdUDTAuZwTweV6aS2YwcnPq5d7TxNehc/Iz9A6Zw2QUdzlKHfcs0kZ5hqrjB/bJzPNgDmducxc5VDggU0ZmVFSQN/O0uqCQBbxGyrLmG6s5qtzF9gnmRxpVdiESqzW3aQ1EBqxHR5dgk7YymRzyMYopCiiTM7G8ZsYdeXJnnHDdiQGDsuU3Um+gPwtcpGSmcVN5Bp86gGIJ3nD1E1DMsy08hxqp6Nv5ivEpnyvS55vz6z+B/91f6c/L1q/ut2HxUq/NrMKe+eRYFHKigrWzOnufYESETbHuWk492ejlK1ElaRMgYOSzFzl1t77UtpaImVFsNRZFIw977rFVXhUOAZFMim3h1GoZmBWA07tWZ+M48oYz/HY05/h06Ddbs49cq/ocyzfWugXnpcZNc3S5QPAu8WIf64kaGr9DfTqD8mq7yz0crlhyN+QxKcWLUpLU2jCsL0Q==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

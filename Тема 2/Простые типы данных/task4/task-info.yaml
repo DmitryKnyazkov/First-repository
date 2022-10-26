@@ -1,0 +1,50 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: VeDLtC1jB+1SKNk2qCdruQ==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 54
+    length: 22
+    placeholder_text: '...  # TODO Задать длину'
+    initial_state:
+      length: 24
+      offset: 52
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: cCLrhpzG5GbaLpcKYfZeJjvWk8lRKf4+OvUMQmfamdU=
+  - offset: 88
+    length: 22
+    placeholder_text: '...  # TODO Задать ширину'
+    initial_state:
+      length: 25
+      offset: 85
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: UBmNHne9SMG4rBM1cx2PlCCdg17VHKoEwmwiOo3XZ8Y=
+  - offset: 143
+    length: 41
+    placeholder_text: '...  # TODO посчитать периметр прямоугольника'
+    initial_state:
+      length: 45
+      offset: 124
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: x4wZQKHORqDCDjkhXtlrhdsTx6NIDsGbHXaPcNMtj3Y=
+  encrypted_text: dEaSnwvSR4umESB0pEXaLe1hia6CQ2brqoiopT+SJuWe5Z+ilL5JYWsVPOVnEwtBRWRG0q8RDPgNrbWuVqz8kg+6hEY1Yce7MboBek0Qnl5mr6t0fs7Wod8tUH6xYv9TUxh05BCVa14sulcb65nhiK+BP64VdQf2p2vtzQ+MHDQQ8O2CuKEmQCm0+1JcRqo78ldwE0vx20y5PXj8+mTvoVPRVa4N58IbOvGpnAp4BqxBAzN0e1HgcCBA9hseofc/1D5nlmrnyhzCJ12I2DtPSyFTQDbWQ6Sq+DL5lteUF/lPXl7oafl20toEwy3QFZ0oIkhaTpE8PlT6KRSdKxz0+uVJB4Rl+3zyJAoAo8zk/fMKgzpEuFF3HJ1kiVyI3r7h
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 12 Oct 2022 15:49:11 UTC
+record: -1

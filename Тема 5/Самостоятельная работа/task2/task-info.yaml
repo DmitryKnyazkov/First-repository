@@ -1,0 +1,27 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: Fqb8ExwCIGishbtO8qm6WBBE9WvMPGLrg/5W0jGIqBqxZOSAWkeBjee9QtHHp78n8jltm9t2IBcRKqRSTYSGqzO+yKSS74k5Byhkksvnc5EzUUlGdKWuQAoHoLzCRt4jNVKMN18m5ZK7inqQ7H2lbzxmpmUEJYIiyxMRfR6KcM/rthL3iXYYL/lGbsXLK6JmCvxUs3RuuPA9NX4iYWUVOyZ9bszVvcDLxLZ5/5gCegIOIuYzlTnCfDweoge3PE6U5oP+R5E3Apyf7byuPdHDiGyf7iGp+h1ZZDisw44EPXWr9PCCiuudpCCqzkKqo6yNr7fvr5qktSXEZ5aQuTftPyTwN1Am4ndYnCYnxjqUeSGWYpYm1P1wU8HjdXoGyMbG/7Zj/FEnH0W2HA1lpO6CYvqzb5kJm01yVUCMAEbZMd9rVKjtWXN1G9dic+V97hiexcB/+R3TAA6VfFeB3UEC+qeyi517lp8EMg8zMNCzMXxyIji/rcEGBZUfJifqW9rQOgHSPs89NICi5bd22eSrKl39fWE4VraVtg1zixB7aTU=
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 121
+    length: 51
+    placeholder_text: 'i * j  # TODO выровнять по ширине 3 по правому краю'
+    initial_state:
+      length: 51
+      offset: 121
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: diHuIIT2QZIamhEyb8Za7Q==
+  encrypted_text: x2FvTy5KomuLIfdyp8qmkVWuM12JDWBxJ7eVQi7DzutMrGH/N8F6b/V33JpSy4lapeJD+RayAUoy36E7Ra3szDF1AkxqqHNl4/B5pnd50j9K6uvdu/sB2C9o0ZCVz0WuYRUnhzxrvBxqDZ8J7e3CH5afUurMUJkgVYfeEixJLoqmRADNIRWE+804lEbU//0bN7u9jjWOgqv+Y/VTLpz3XprBvKQ6rbFql2SdU956C1uhNUgXS2f+lCP3C/EkEqHOL6K0HwFZ1+gN6AxOPEUSBFqp/IdAjq5+tqC2XIyMOeKm90zhSJAE5yTSVqkk4w2Cv+FBpLJz2vuoScfCdA6aDMaYC/Ty+Mz9K+mvFCyOszLQ1ZOUKtSoNkS7AFoQ+SdVPJ3glq0GwJ0C4qGhPpXEj99WTee60dM5C8wbrFzGDma+QQbdQQ3OjIMjWOsl9QdeHoCGVvwbJHR1aOAjwl1T3HKw7Xa8pvDV0cGXa4rw7W/kvO2Z6JK1z+gYzSoLuqAdpAHOcISwsCzIaYmgmy8Q/kEZqU+sDsFD38yLsYl7wmiad2xUnknGPXPNXCNjWnEwqt6S9u2Ih3FJatdxT6Sa1yVpclsUUYgu4/LwT011W+0=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

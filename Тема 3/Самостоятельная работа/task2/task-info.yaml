@@ -1,0 +1,61 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: 7SmGI5zj0VfmTBma62YIf9mS+EP2SA/vIAvP3X48ocUIOXFWo9ClZLuEjTT+Vdnj
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 36
+    length: 63
+    placeholder_text: '...  # TODO записать условие, что только первое число меньше
+      45'
+    initial_state:
+      length: 63
+      offset: 36
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: mTp2itsNs0jp6ZEKftgyP3QIqwF0FumBuxs2mY6o47o=
+  - offset: 114
+    length: 63
+    placeholder_text: '...  # TODO записать условие, что только второе число меньше
+      45'
+    initial_state:
+      length: 63
+      offset: 114
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: aIruAwJxrWFZqxvm+d6I8kqsqCJSqr4oZG6iSJykMqs=
+  - offset: 192
+    length: 63
+    placeholder_text: '...  # TODO записать условие, что только третье число меньше
+      45'
+    initial_state:
+      length: 63
+      offset: 192
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: cxyaNwllI+hVNL3A2wNYrOIstWnsgMvbu/oAK8jABbw=
+  - offset: 260
+    length: 86
+    placeholder_text: '...:  # TODO объединить три условия с помощью нужного логического
+      оператора and или or'
+    initial_state:
+      length: 86
+      offset: 260
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: zG/4pQrPe/fJF4KoCitZWC8+rUpRsNtDhsNGBftuiP3YemvjZZ3GUMmFM+vOV6z+
+  encrypted_text: ZYTVxMn7qpcqMt1d1Mx4azWURtweWWgOvcr43knfdFmqKhLIrXHffn0jeWL/3Y4NJmVq9ANQxGL//wNeW4xARra5OvmcX/L/rLq4nKKSCpvncc47iVf4clxTfi0GGq/XDPcaryg0pNtNDy+PEW3TmUM/B/S54FlEA0YEygI1/yBu5cIRQ17cxjU9Nq15YVT6ho22Fe84tHXGRndKMUA7m+c42tI7C4w15HfXEMC0iMsF70oQYs3zEFXIWwDdAUVYvlqDtkTNHcwP43S0GSt2m6hnFLh5QlIdqf0UxSSWCPDWU4LXOTfkiRTUx5N2OYzqhWJXq/T32PCW0G0bR7er8NxhgQuiYWUJC8JCHWykTd3t7ub5ZwucPNLYPWMQuPa1WVemO7HDEltVqR9w55YMsDH9GFWrOz3HkvzZygjNJJm7F8M0tXGcbxmLC1YdCg5BZxSTCQbAK9SjY9cnGB/wVoGG196/mk+m5zYtyJJJN9ZHnoubGb9vHefyH7rUEsYG3qZgJx3H+Jmn7g7ab1nudyphjDRhIna2B8dDn3KQBwicdJnoulCXodvaC5PKr+hjkM5bfA5s41JNY+gMPdc9SHYi26yZN4S+rLCR5zyXgiXdNJMeEK+vVrTgoeDKm2sECiMqa3CXSVc9k8BEMtBKBIriwV6sREeofCKy4GzEd3jX7/S08eUat+hAv+aVr050d4EZeySys3imQYeu8m3Y561M++nE4W+Jf0QbS5XFZqLLsV+hhD/7SqWyxUWyJPxtlDobfa/lt14SXM1yovkUBw==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

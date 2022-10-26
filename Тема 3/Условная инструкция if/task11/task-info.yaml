@@ -1,0 +1,71 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: shJPJtREbw001w32Area1g==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 63
+    length: 93
+    placeholder_text: '...  # TODO записать словарь весенних месяцев, где ключ это
+      номер месяца, а значение его название'
+    initial_state:
+      length: 97
+      offset: 27
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: B7HxAnOO+q5iFrR5KGOWWU52NrSK6HlYRQZBou4z1qet1vzXaXJDZV909UUXyISuSunI0+mVM6jWthlfljcWhQ==
+  - offset: 208
+    length: 0
+    placeholder_text: '...  # TODO записать список месяцев лета'
+    initial_state:
+      length: 40
+      offset: 141
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: zk4hMqmPf72OXCnJHio3oA==
+  - offset: 269
+    length: 0
+    placeholder_text: '...  # TODO записать кортеж месяцев осени'
+    initial_state:
+      length: 41
+      offset: 198
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: LTF3TUo+lUbl7Cbd8F1MfQ==
+  - offset: 325
+    length: 0
+    placeholder_text: '...  # TODO записать список месяцев зимы'
+    initial_state:
+      length: 40
+      offset: 256
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: vHRESodCshXeH9kWli+Qiw==
+  - offset: 516
+    length: 45
+    placeholder_text: '# TODO дописать условие elif для осени и зимы'
+    initial_state:
+      length: 45
+      offset: 391
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: RS4lrojSu3algYKXtXcQwi8r7IphE7UA4CjS4563ydkqzgZz4NTcHmtvUwiJN3bmL8QeYiHFmoyFF4rnqTKSgQsrBfRJ/8TK0WXqHxYE7Nb05dwc1Z0Kfoz6QXnqKYDufe2CbAUQ9LU3OwJ2YzVFEA==
+  encrypted_text: gYs47OUn25FBKIKUOyqtnz2dHYwp6gItfKgWw1tFYbQ7DrXoNMqRX+ENpzIBO5AbnW7zRs+2tWcW4Yf2QDXL65jaqV+SCs8ZQdAdOcPwmHpPJ4aOeh78k+JqTdsy5k7K0LXvySs66Kphc5xuORRnj0HaDvk94x+IdXx1EfafbegIVofW9qST7IbiuB98dseTUTVrLvk5sIHKu1KCzzmNiCTDKfdQBTH9PSPPb6pMyGCYXvmkYj1KnRSeP+jWV4um3u+dPG0OSgNJ1X/1pP7GcTdpZQ/DGbMGlZjGGbIXHM+tvPwxadyCuFN+qQVtgxBWBJkhZO9E0m8CyYz4+5RDbgYRmPlYzVTgp+MWr7qWyGnhFBpMTqkULEcqiYXsgnpw+3H1nCQi3Hni8Rhn0SKPfLI1kxlG9EgUeDtINpPvhbWGfw1YhJICcax6/kCjgpaSfr5mCjuZB8T+hGMo29N/5pSovmNXs3DCemoWYbCN+t6soUv8nVavBM/WZaJUEDLwVyNFCMpQ0BcwJIEfK0MjGG6PX33XMcYVzRp36h5DFSYeRw8/dcsfsQUaCHhHsIWNMSayhKWAHPI85ndAL07dQg/ad8aqeL7PCR82NCtsRf6fPlo8gJRj0gNhpQK+ZCef0SrCxwExr/HyxFaIyhHKvkim25aLDHfUxmSALq9vdX2CvJkupQ92E8I4+jnqJ9kLSohNtpc7TRgXV00S4T1+G/D7R0T1N1i/7XUPFQ4/hNFEJQBphg7Sj+JwBfA9fgCu2RIMBXgzFi7XOqqxmVFgE6by1ArUYaTXnpXTotr9f9IIYzeWEVFXP7VkZY1dzHic
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 19 Oct 2022 16:10:15 UTC
+record: -1

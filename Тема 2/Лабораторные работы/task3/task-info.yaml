@@ -1,0 +1,36 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: azYZ3b7jN0fEl/T3kxeHWNSVzFpjWXsaw/2YJe84mCA6BaQ+myBgYXsV3FbaFP3LC/xv6tqqBZ4tEAT89WIypLQ32BDVAFw2mLHljvvvlWfK7gZYCz1Kvr/+ki2uhjgSTQnL8o/VlCRLSYEK8fJpAdCnivZ5xVBhzfCJjDnpQuSPpKZzKMe0v0uaSx3QzRPTOy/oi0lkKQxI6+6T8Nde6T9DdmgZvm4SpVbETj1sDr4=
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 286
+    placeholder_text: |-
+      # TODO продолжить заполнение словаря
+      dict_hex = {
+          '0x0': 0,
+          '0x1': 1,
+          '0x2': 2,
+      }
+    initial_state:
+      length: 93
+      offset: 0
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: Om3ERYnCMDYf8FBFmpx7C8QvCIXyQcnN6nQ9kZ9Yv+OkJPG/reIzVO0ik3hmkQoupju52S8ODKeOeAOa9jbccyPdjZjCFkAQCY/iTGETECotV/5b5oQn/CMiqsw4pEqXX1Ooc4Wt2Yp4cIgFjlcFPO3vesGqa7PxyNn3WWjE68nuY5SaI1/2fDPGpWe5spkAQ2p2bxcG7xdLPgV0yOJ4FN45ee8Qrd+HAVcEV6y5EDnHaVOfFBwm3xkG/DJT5kdpQ5HMcURDKP3x5+h4dZTHmHB8tzkAuesn0SuT/PgbeHsCmgm+/gH93rXfX/LaUrvgzYNhc7+mtMToR0MyvhAMQA==
+  encrypted_text: VRB5iP7FT1oQI4PgLQ/CmnrjdasS/7gpxh/ni6VCYGCWOIAMAYBKYXQ+V5SKuhOAtRKqRbDwjMskAV3JIFINOcOpjQMYPt+Pk7cNXiv4w3yyjuuGyaUit0mJWjy8s3Ja6xD+ZRX33r7cbFdu0D/BWvWoyPJR805fDA7O/Xes/JFIKHjgZHJVyRwu3hEHnaxW
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 12 Oct 2022 17:57:28 UTC
+record: -1

@@ -1,0 +1,37 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: X/P6+ynD3c2xegoEMIyBQ3MZzlUGN/uXWiaW+y801Ek=
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 43
+    length: 60
+    placeholder_text: '...  # TODO проверить что число шестизначное и положительное'
+    initial_state:
+      length: 60
+      offset: 43
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: Rj7s7vFp8QWiLGhbIgNhD7qiKCijavSUNXbcPFagdpr4cYooxky4a34/RN9hNXT4kew6C9Xmyi/Y8EuZFnUusTIvm6X6KlwKIGszPZqBahihOcfmcPks3RLBvleYZMHZxT6Uk5gKF3W+7fpECJL+QWQbsQi7IXbryPuYyRx/ub4nlCltu776YiD9iPzFWhzq4wGmNkmbHJfE3PZevbbNySSW5+2EJ4VkVvefaw/Nbx6HDG1x+N8VmC9dtjCRkM/XKvxbhzqmNS1Pf9VzBAtn8Q==
+  - offset: 109
+    length: 46
+    placeholder_text: '...  # TODO проверить счастливое число или нет'
+    initial_state:
+      length: 46
+      offset: 109
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: gh5LrFhDIw9zJW0gC1yEJCbhcygfehVL51bHOsUPXJDv4jCLVpI/4Z5N8uY8tyn3UNBcEflZ/CtMfDr/aXHtuAxg7F72Pitp+0r8lLl9ydllhTDv2OAA1FO17JWHwnGvjfZnLdy4N8T12NKRvbL0Wg==
+  encrypted_text: Qo5+NABI8xaLa4hEQMrMQnJufjXKbL9cE7suFb9rJCROnE2dndJe3eoVffXsAJi05gdExyNvE6uY98lgRpWu77YWeYhVTASGspr3uN9yC44G1TBTouDttNHjvjY9oq1P4Y41/37DlwyylFNbawAt9PvlqtQWDZqupj1Dq5MGLSWsEsqtAnDz2/gfeA0sxt7V1x+BTMdGPeeQCKknyv6MaT57mryyU1NTYqAMv8tfIuMZaD+9RxBkfZLDTWjsFD8yRybNn12quUolDSHPJRRqeu5jfvwlXwJQaEFwKGg03afUqdFfTiLHZnWvgunOvzg6SsWCMIHObcmGwjI6qQqMkCsx3wgFDiGDERmF6C1+TXcGSlhx1AgK9VYwCcDiCVipAjWOR6lMkOnkDu/2+TN0GbcwCrn0JRoVM7wQxFGHChTps3ov81JLWQGgnMcLAfq2JkakQVjN3Wf9AjCBLK/uHD+CLLjsslnDYLduL98Q2uE=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

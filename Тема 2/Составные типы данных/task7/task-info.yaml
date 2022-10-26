@@ -1,0 +1,34 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: r7cYBJnAeb8SSzou6Tq7LyEZ7x078/Wl53QIMM2h8UaLSCXHzPcSB72SQJv4JEDU7VoYO52dr6UWaRlqaMrWWVv0gX0PM0BgChTTRiUG6Hmh/mfBaQPvnqPDYFwTKLSOrlyqFzs6yPFGFzGNOFADBQ==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 45
+    length: 43
+    placeholder_text: '...  # TODO составить строку согласно условию'
+    initial_state:
+      length: 45
+      offset: 14
+    initialized_from_dependency: false
+    selected: false
+    status: Failed
+    encrypted_possible_answer: G4djqrVRVN9XIGB2V3Gp056BpjdYbNs9l76FkadGFrk=
+  encrypted_text: fkYebgHbC/rzTqkxljW2s2lVYCdCMs/qP857F0bkr9Q0yxz2sScUPzA1qtbBOIz3ThREVEfPjv3On61hS6ri8UJqKdbzrJkaBcq9P5eh9B6nYtb9T5FtH5Que7eo2VrnKT+KPa0WlNjn0pi7VPOKsw==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Failed
+feedback:
+  message: Incorrect
+  time: Wed, 12 Oct 2022 17:13:30 UTC
+  expected: |
+    1111111111111111111122222222222222222222222222222222222222222222222222222222222222222222222222222222
+  actual: |
+    0000000000000000000011111111111111111111111111111111111111111111111111222222222222222222222222222222
+record: -1

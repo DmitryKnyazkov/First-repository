@@ -1,0 +1,28 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: yB2jUPbhLpcTHv/90dtxEeOwh/z1lCx0WIPr2SvM41LV4OOaTWUMksMZmr1a0tYvPfVQx68g5O9FwP4YQyMaIkcAZGxYWgJrjFOAtaWxSaZTbzRjOruYUBfCXrF/DvoY8fornKNJXATocJJ2DSlA2pgc/wOB0ZQ2+m3JSwTLVMV6odxUtF4nMnTrvN4TRnuNNUY2OXCSt2ZPHv5jm0i384JIeiho2k60cGLspyP5mrU=
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 11
+    length: 64
+    placeholder_text: '...  # TODO записать словарь десятичных и шестадцатиричных
+      чисел'
+    initial_state:
+      length: 64
+      offset: 11
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: pCmwiL6Mvpb0rDySDe6OWJhtQ1oBUqOmrBZPWBLIOEaMkksFrl167FZoebzYMqXA
+  encrypted_text: nPfhSXWZj4rVj9eza7NRlmHgn+LuI1gXGYJkmaOTqPfKkMolbeCNT8EvlSlvBBuMDApIWpA8dgLVhr8uQeDuHMb44MDWEVaW767AOpofxzf5dQQOqHQ6xlblJj5FWbfnCFLg/BywrsAosx50s5BJH6rX1Rmk5cJ7UfuWJ0KiBdEwhrXp8e63Oq4R3/uYBTSW
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

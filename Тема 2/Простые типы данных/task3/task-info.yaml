@@ -1,0 +1,31 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: d+71SP3mrFqA+BaGxORMtQ==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 39
+    length: 88
+    placeholder_text: '# TODO сложить используя комбинированный оператор сложения
+      с одновременным присваиванием'
+    initial_state:
+      length: 88
+      offset: 26
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: DUOkOL/N6tCFw155bqI06g==
+  encrypted_text: DI4hPG9DhaUjkL45PXIPH2WYjmi/dWHtIWuTERdHPlSmMN3/uzvQF1FDJVl47F4QSQEYFuXxyEGynajbw5499nPc4ccMAaof0ZJ+Oi5Uptt+m5gEY5eQmrvO9Y/B1IhTJU9oXwz6bA+86nHxtcgPjfQrQVYQ6LEo2MpY0MylJwKiUtjPra4tXV4KeRZvHNRbf5Q1gZFFGkPddf8k4q1dGjVBwWy4L0OXhBA5+teqLzrUDfG3jsQV+df/Fz4vBMhxFmpETmnxqXOJnIbtVO9Pew==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 12 Oct 2022 15:40:40 UTC
+record: -1

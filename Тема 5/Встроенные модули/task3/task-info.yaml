@@ -1,0 +1,34 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 42
+    placeholder_text: '# TODO заполнить список случайными числами'
+    initial_state:
+      length: 42
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: qfsGgOCumdmJ4tbXi5aT9fwDqwsYRIiuE1idM5JpjhOKXIKVQ4uHPDk20rjvHeX0VPbHsFM+nHc+5H531kvdGS+lAHC4sGa7pOZG7spyL6R4FztYo7Per68iDmWQlGAPB9KDHZn5D/bNy4jRAwOg1TFN3sHa/yE3WX9rvhWA3dw=
+  - offset: 44
+    length: 47
+    placeholder_text: '# TODO посчитать количество отрицательных чисел'
+    initial_state:
+      length: 47
+      offset: 44
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: C7BOzITSambFIbnUYSwFiE+Fp5IEOGG7CO/KMGenrAgGiAVDi6qRQxIBGxf05L5labv2vRd/OqMvb8AkRrhATeKntid2UgAqw2RUYBNMVrKqE7IIWy+CsAssZbcJMcpD
+  encrypted_text: JAuOiSvqdUJIkbrfDt9V+DPnMQ/uaTIjpFZFep3C/H2JJG9vvS4fZdRx/UAvcn4R6hiPoolQ2frqWzNerXHlL4ddn9rAXbq1Y9crXNrlCYlE+wQ5HFfbZGTkxo66T/jxKtTrOTEqTxaPqVqAq/KsNK61EY5OCdNPBhanb80e2h2Fwe8TclEXjtCkRllvDQzUjXU9hSl7GkbJ1Un8I+SiMVC98KOQh2P/mB2xcdKwSGY=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

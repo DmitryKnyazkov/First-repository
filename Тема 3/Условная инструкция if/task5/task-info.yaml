@@ -1,0 +1,30 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: AdgV8Ao9Me54fJ23UONz37zJa+CdisjE8kF3j6cM9WFZqt1fbotzp3+VKClFtl2jtD8yLBbOPbjr++S+l7PM+LbFnbmr9eNY1MBIzHfYXTSBP4v4qWPzMwSfd5PlLcQG
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 135
+    length: 54
+    placeholder_text: '...  # TODO проверить входит ли искомая строка в исходную'
+    initial_state:
+      length: 57
+      offset: 116
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: NOqRrnlvrVQDZS0yeqZVXWIUgGxNnMeysx7h/NKu5/w=
+  encrypted_text: YOKH7xVCJFW2pMv50ZhbI2sW7FhRxRsnxFDxhi6mOAgr+tNiDXAcDo3HneBSzQxDRd/5ByC9jMDpDlb2Pau27/azkCx9zcAOsWwyz67PVNSMk/2mFCE3CD4OzZx9bM/4ZnhDUseFMno6CR+SkLmNBfmvGTkXifEbbAF0SJRICNCvy53PqNZTh3KftPv0ZP1ZjBI9ZRDkOvKhz8CHocuTUtlYVVnDiETlzY1x1hRr1GQqGrOhEvQ6K+y516aB5hFx+Z3eXr19QResIHPXi3/E7tuAMXKCZgKQ7NqID/i07FPjQh0UTSZYoPGR9SmTUcJAPTfTxL6Bh3FuAfe15CBqg0dd7ylYLdfm69ix3U592h9nC/rU/ovQ9eJ15UABYv5Py8+ffRBurvQ737Hp+2Cjm562tlxWkjnePtmF7eXkXyE1RYOmaAFC0iXgH2o+LHRYKhvm7D8tgt5TN5rxEqtSVSbnqSjADDHrsPz/dWoGMja5aBFBGBPm+deagVVOJZgj
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 19 Oct 2022 15:39:36 UTC
+record: -1

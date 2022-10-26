@@ -1,0 +1,88 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: T79yKr1gUeqCJa5XBgWx5OrGSi/p8g8zL3ovziBWuG4/NDQTx8x70f/jCXjKp1kuQ+SfjHdjjgAmYj+xFIAh8jgKHbeKarkWVRzESWno23HUEsbL/m7SE2Wvp9U7LhXP/qlTwdTdlmJBgMPhgPMmQU9pz7JXX3KxpZVXqC1f2uJoBaZX7lld2FBpuh0M304J8r5iEosU1XWjF7GsENR1kXZ4JcYTWHigiScFNYLDwP2DYxZuAeptUgk7NltU96FB/VLd0aipEaL1s6knJmdEyA==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 13
+    length: 11
+    placeholder_text: '...  # TODO сформировать список цифр'
+    initial_state:
+      length: 36
+      offset: 13
+    initialized_from_dependency: false
+    selected: true
+    status: Failed
+    encrypted_possible_answer: T79yKr1gUeqCJa5XBgWx5PoaXfyOyRIiKsCRQaypdAQ=
+  - offset: 64
+    length: 17
+    placeholder_text: '...)  # TODO сумма цифр'
+    initial_state:
+      length: 23
+      offset: 89
+    initialized_from_dependency: false
+    selected: true
+    status: Failed
+    encrypted_possible_answer: 7+Yn8L3ajQuZDjEtznIyN8+fjB5Wu5ybb1m241yRxJk=
+  - offset: 82
+    length: 65
+    placeholder_text: '...)  # TODO количество цифр'
+    initial_state:
+      length: 28
+      offset: 138
+    initialized_from_dependency: false
+    selected: true
+    status: Failed
+    encrypted_possible_answer: 73aNCq4b+oYtFBSI5s0XOwtUYyxgpfbQxaMZzXW5HO8=
+  - offset: 191
+    length: 26
+    placeholder_text: '...)  # TODO минимальная цифра'
+    initial_state:
+      length: 30
+      offset: 194
+    initialized_from_dependency: false
+    selected: true
+    status: Failed
+    encrypted_possible_answer: U/qVmNOw66xE4uxjgjwxZdSj6sIDZJ35UT9YVZMOjB8=
+  - offset: 246
+    length: 41
+    placeholder_text: '...)  # TODO максимальная цифра'
+    initial_state:
+      length: 31
+      offset: 253
+    initialized_from_dependency: false
+    selected: true
+    status: Failed
+    encrypted_possible_answer: l0bujoM+NG4NdF+qRaAcW7Faez+VSxYtJfYaZsRzWy8=
+  - offset: 366
+    length: 36
+    placeholder_text: '...)  # TODO среднее арифметическое цифр'
+    initial_state:
+      length: 40
+      offset: 322
+    initialized_from_dependency: false
+    selected: true
+    status: Failed
+    encrypted_possible_answer: 4i9Ky+xxKpYjYreqkUXNP8Nc1AR7xsuvthYSwNeFcY3NVvSFnoTeY3RN1NbexcKW
+  encrypted_text: f9ssQmVtVLKzUr9/zXgpqmmd/M4ODpDbyRQx7U08N99JAoRlVrdshL3Gi6x+3MNPryZfaxj77J/y+271rp3xuxMqWeQ03ZXDtcQiy0+JRECO/S+W+61s6+H4baGcXCv6P+40tE7qwpHUj8pJoa3CO6gIYpIyiG3h8+tFbw5OOeWLaPthxpbeotKNH110xwr/Pfdv67wiaqh3Dl9RFo0pDPIujgn8Qdn1wUIC20nwm9rwplD/q+gLeXl1grOXemB64oB/SU1YOVmja7I6P5i+VmkGrhX7IvkdHCAeknTg6+3OodeJWm2JFQAGUSAsqiSoiC/oOtp0LSUrqEts36dlU8/N1tEfBtrz96EnxwBqke5UkqhSNw684P4OoRdRgv/IX1FMxWi2sRjqt/w93fgbm0xof6LaYSYEHa9CfgS2oUWr2v66KAWjwFyNjQN4CChnH9R7cYZOxndQYvf/wHlRfPJs/PwMNzfndGJru7M9/6V9yxXpnfXexu+RqJ5n5ZhXZCvyTffC4MF0eGC/PofF8ki+OFsj5O2Ptmk3eCr9lSU3ShVbq5RF2NSogOg682gWtjo/tQ1BJy72lPHWOg+AVkhg25+6xE7mU/Q9fKrG5IcZtlxrI6kPNsvUohy/NLur8tjNVpdlsIyeAF+FI/LDIEJEsLuPBsSQC1SZOFXNpD/6TQJ4CxuvmOI2FOe1c0b1ffoAtIXGj4Mp9eeAKS4KDFhTs3O9ersdfASQzPXlXno=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Failed
+feedback:
+  message: Incorrect
+  time: Wed, 12 Oct 2022 16:45:32 UTC
+  expected: |
+    [4, 9, 5, 1, 8, 4]
+    Сумма цифр 31
+    Количество цифр 6
+    Минимальная цифра 1
+    Максимальная цифра 9
+    Среднее арифметическое цифр 5.17
+  actual: <no output>
+record: -1

@@ -1,0 +1,50 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: o4J4McFPBrHZeRSkRuNR99WsCBeKItLtdr4JKf9SvXhRWuk7VM1WOz2T6lK3vDApSwO5pWtcJl+FzwhKctHGcwzzcNzTHs6gKMigA2b177c=
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 122
+    length: 0
+    placeholder_text: '...  # TODO поделить количество игроков пополам'
+    initial_state:
+      length: 47
+      offset: 99
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: rAvI4S+EKWo7GhmNly6IDULom/z+dvibhtAByhV2Udw=
+  - offset: 164
+    length: 0
+    placeholder_text: '...  # TODO взять левую половину списка'
+    initial_state:
+      length: 39
+      offset: 160
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: SF3MwQdWj5rkd5+YIs9wL45Y4D+w4lvjP1r/gj8Sqto=
+  - offset: 206
+    length: 0
+    placeholder_text: '...  # TODO взять правую половину списка'
+    initial_state:
+      length: 40
+      offset: 213
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: hannz30Tb0gzz0O2pzl5qXDKdHbVtRELJAi/VC8KyhM=
+  encrypted_text: o+K3viTHHrAWerK0AJetF+gLV9ir4y9zQQAcKEGpIW4trfw5J+zIsrr6r4jOuSozvip/8u3fBOMR0Dfwt0HcWSYXBz12YqgU6T8RjgUgsdbAORLvu0Bnu5/bHXXMj9pCgl43sD9PDEZoyC8bNHU9J1wElBJE4QtbRd6DbNNGRRSOpWlyjREMAW3CsrSO7n0/QQDC34h3MMK7KD0k5bD5QC4YAeSX/VcbrZpvqQwBlR8ZzEy0z5h2y6SZXr4nZdbNLpjGIuPRuT5ZWWq+0HcF9DW50H+tepsv5ZtSGMarRcTXMWELExqUfSHRZJxpMoA9n+4vX2vYnDs5NTArnUnGjAp9isqmzUm7tpkvwY1PGA4ZM6r4hDIylx++rICnHExw16iHOsY/FtFaXmUfjh63uOIpKjrJIYWdkQw/axLHsHsEt1yubocjEIveXeYQTLkjpdcudiBkjlBkYLB2rmbPCfrPxMGw4gjq4dJkqUfvAzr22oGWjfEBcjTbF/E2DDNcHlFIw2RAyMjZc9WbS0+uUIkMuhYj7lH5r/531ACsDHg=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 12 Oct 2022 16:41:23 UTC
+record: -1

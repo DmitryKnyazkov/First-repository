@@ -1,0 +1,34 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 57
+    placeholder_text: '# TODO импортировать необходимую функцию из модуля random'
+    initial_state:
+      length: 57
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: qfsGgOCumdmJ4tbXi5aT9YBBQTlwM/aD70PRkU4uQ40=
+  - offset: 117
+    length: 36
+    placeholder_text: '# TODO распечатать случайного игрока'
+    initial_state:
+      length: 36
+      offset: 117
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: fh+52u2LlWnsMNdM7q9KGTXAs6wHmG+LJdHihfN6768=
+  encrypted_text: QfAQzrQJaCeE9j74ahGp1tnG3IRz1HNylw8uqgESsJUaH9Eduds3Ph8cFFcnngQGqUoUQfoS99y24QfL7dzAs3xMl3y9neBX2ki4zRTAIvhYXLRl3MNHbPfgKgwrx1nbk11P91eNBp4t9GUjeOhhFGpJ8IusTr2+M9tF5jralWN7bJblU64RsDBBpYYL055iI+r1VPOVG1d0ZExhHhg4xRz1edNra/4dJPtF5s+j0XxCFmdyGBPhTKVwmhBCs9TqfRiR5F8ip1SZkoYtxY/YqfZNBuw0tdrRD7DspJD+GA5vEqo7AMRMudjAj6iHPkUqK5UDNXz8jpBqgPQ1e6+4qw==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

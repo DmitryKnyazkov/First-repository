@@ -1,0 +1,93 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: 2tDB3weWOV+bUSspwBXupw==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 92
+    length: 0
+    placeholder_text: '...  # TODO ввести количество страниц'
+    initial_state:
+      length: 37
+      offset: 89
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: JFCs3HeRhhqoG+4cuS2Glg==
+  - offset: 103
+    length: 0
+    placeholder_text: '...  # TODO ввести количество строк'
+    initial_state:
+      length: 35
+      offset: 135
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: DXdeVjnqwe6gRiLvi33RfQ==
+  - offset: 114
+    length: 0
+    placeholder_text: '...  # TODO ввести количество символов в строке'
+    initial_state:
+      length: 47
+      offset: 179
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: E59oQjl1SZMNQ69wPo94bg==
+  - offset: 152
+    length: 41
+    placeholder_text: '...  # TODO общее количество символов в книге'
+    initial_state:
+      length: 45
+      offset: 242
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: OWSXNR14oypuePdCEyU8lGodpio+/HZ9zJXlTZ59Z8c=
+  - offset: 220
+    length: 0
+    placeholder_text: '...  # TODO размер одной книги в байтах'
+    initial_state:
+      length: 39
+      offset: 302
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: XJE5E7t2qK2ZzRv/QA0bwPuTtiwohFkmpZ5v4hztSuE=
+  - offset: 254
+    length: 34
+    placeholder_text: '...  # TODO размер дискеты в байтах'
+    initial_state:
+      length: 35
+      offset: 355
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: MB+9MZsIUjtyasD49pAmulfexvqQnxz8+SqDqHs4WSfLeDRqgjbrSO55baC87q2F9pZDNMzTPM7XAtVDShRhVA==
+  - offset: 322
+    length: 65
+    placeholder_text: '...)  # TODO найти количество книг, которое поместится на дискете'
+    initial_state:
+      length: 65
+      offset: 398
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: +kAD4xCqZW5D0HW7PsEPHfm0a5umM/5QTdLNyadR1h0=
+  encrypted_text: oNNtSVJ4d2dGR1npUc4PDaYQs/xG8AH1AUyqx1+lU4JLbR3IpjxS8PzHPg+K0CT1RQgT0dkqWHA3VidX2+BkA0BdL6/kEJSOKMuscH2aiIbHVzPg9YUPz3voXxWvR+LESAK0vKFP/9tw1ayimBBZRhzQ2h+mxxv7OEmIJOrIJ9TDweUw5Lcx4euK8cA6Wz9jFDo8H3HgdJFltL7YOIwkFjU5xkVBIPfmQjM6cj4NKi53YuGjXI6xZdrGU/bdTxSynTPrQ5AJOTLkH9hGKhgIjGAimF4+GQv7KKAm9O/VGj6/aGqCyFVEqFbGAx4tIJ3eJQt5G3dZjDBk9OX0/w8gVyxd2Vtrwpy5C3fhlmnOYEroMOYJjntOYlSGvurr/gk4WyJ70oQwFf/dnncsULHVByKT4FwtCfIHUAKM+q4Def0DEBSNnrbhfh+ccHnR9vXIpiSumzYR5ru+F9FaPA5JHPjdl2Ai82a2o4eM4TLMEL4mJMCOz0R4KRVYHpa6ZhrhDVVKJ50IhYFwTGCipN/eQwGPyYcmTlp9JlRasweuJG/Wwd9NkOWfoLpvnjsrNuqyDQTBdTQgmjikEajA+0XG/2+Ym6RXHZ0cXZOq0w54hAvVTMWmFInxXo4b8lxkFtVueK77fTsUMCztD+58iJQ3BkOdVMK+/lof9q5YTCLp7wvIquALssZ9PBAdKyEZ7TNU2WfdFTvihRhkesajqCLi0hkGeRoSQMWiTjt2KZI/eP2OMlzHIbd6bmSCq2YNe8HBdb2g3eEM7A+mFljTwrw7nYNBNFvf/NNQhpkUKdUMkkKLfpucR+nNpiFn+vrlEVEWi5bc3iQH+Y1kps7nbnjKmMa7wBv6NyBSyeW3TrNXRJ5+pguPul7uJh97o8+4KfWObhuFrWRddH4/uv8GpRK1tDFTvbYmuVd0mYDPDTu9IJYe+OkjOQ6TnSgVRtdOQ2mZ
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: bytes_table.png
+  visible: false
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 12 Oct 2022 18:02:53 UTC
+record: -1

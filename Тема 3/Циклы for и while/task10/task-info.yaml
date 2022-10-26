@@ -1,0 +1,51 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: j4E4GSFVuOJDLxhrUP83lsn0A/NuqYLM6diUTUtAJmWO+XiC8d5tQsgA4jqI6Hdd
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 340
+    length: 61
+    placeholder_text: '# TODO завести отдельные счетчики для четных и нечетных чисел'
+    initial_state:
+      length: 61
+      offset: 43
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: huk4f0DrMaj12BTTo5KQt6/xg54SvUVCvPG++FC5pm3/Gu+NTY7rVOsinu4KQn51J6ED7Y53I/MvXbyMhjGhT2sKYelozgKxWMAmsxuyW4Glfva7CE8cz0sIFIJNPlxK0r+eswUetA2LTDsGxlaj7y3Oj7vOX3MW+8w7KX0ro3+t46sCMAGie5L5DTHuP1vY
+  - offset: 403
+    length: 90
+    placeholder_text: '# TODO с помощью одного цикла перебрать все числа и посчитать
+      количество четных и нечетных'
+    initial_state:
+      length: 90
+      offset: 106
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: /z3DQHEr/JLQPHQ89QyuDD70DINgEHLSboiJyRL3ka8njkaA1nAR318AjMlItnKPErq0W/kWstrJ9PB/Y3iKCpviMSYIR8LEpVnkzWxHryZ0ujAviBQL8YToOZj0Ll8TLy/Ujbw24h5EMAVn7n7JybsonXT/B/J0wjCEhAnJlvQ1jQ7+czFIaUTnfFpAC0cB
+  - offset: 495
+    length: 33
+    placeholder_text: '# TODO вывести каких чисел больше'
+    initial_state:
+      length: 33
+      offset: 198
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: KjrAeK/uTXBUoeFNc3Z4TNyptrgXtVGDcZDaoVJEwHClvbwBztM+pJ+GtxbRTprtzdKWNzvSQiIkOBhEauJp9qd5M0gh1RcnhLSybiDtQKeqBLaUJXC+Z9tKDplE/9AEusI21XefpS7IC6L/SoSS58Z/b3UzKUi+eDoLdegyN/QmK1ZDTf624UmpPgaG2tgxx+2XsAcQof3uFLGtsH0HvmvnsfgPs4KSSK7HsNqPrDrakrdxxovc6MV6ZazD5+vXhzTAUcNFyk6R3xdEtQy5o045Cc1mzTZkFmPHJ8YQPvhqHzV+ICpfpEXWDYiliEOjLKkNvro2iBR5Arasfco8mQ==
+  encrypted_text: 3tO45ZLQtpjwPlEXsn1lwY8Ay4/xuO2I/Jo2K+fhZ3It7TdQrDFXKisVYRVqhw/FmDZoJYMskMPB+bOKwbJZ+LFI0vwNAClVzBT72FSP7KdAF9iqwZkgBJ1BAmhZ/qX1JoeOwGkDoltmmeY0Rc157UuFzMzII80SYI4OGVzh2AhJRmxgAfwmos0rs2nesH50LyfyMB8nyNKIZtb1k0D9w0/HU62qtGNHqxyAtGl2ZYLkYk1v07S4n+lwwndFpdq2Q4vqNcPlOnwXyKNKdx4YuGsJpE5m0NSlB/PNEEJSVEri0/UlDZxEm5vxQ7xFWs76qEXPz83Oo84s3Q+8jgOiNIkAIsmH/g/XWnuYj+T6DZZb/SOUKqZvJ/TwioipRgQrujQl5ka8m+0eT2p8217VVmOGL24Yi38AX58BuOtZ/SVtMzIKNNm0pM2oXGt9pa3UHl/7tZYcXrhqxVb+aWiWC8j2CJwvbMLOkzNbnVQilcgO+3NvpoktKFPEFS4MgnBL
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 19 Oct 2022 17:24:54 UTC
+record: -1

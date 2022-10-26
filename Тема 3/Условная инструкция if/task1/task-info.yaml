@@ -1,0 +1,26 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 17
+    length: 52
+    placeholder_text: '...  # TODO поочередно подставьте значения True и False'
+    initial_state:
+      length: 55
+      offset: 12
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: pOFxq+VTymWmt5O+IDuWdQ==
+  encrypted_text: NOroSDEUD95iWd3VRTeHTQ7TQ1JGjsgrJOHm2cAqd7SfLTqynuULechf34STnXOEgrf3G1p0QHzvKH6Qj+2KRoOT8WGdSUibMh5KmrrCyw3mMsDrpo5IgVDcKJZmlhXodjblx5D0WGGSaiSvakU9eMORdkhM0se3qg0fpmP9l1BOMMm1ZKZJg4N5WXh/sQC8iMLrUR4V4XAgMD9Wf/qxBPJfY8oxTxMy0QcZr5znvTD4yXusfMyhYdC8mWBQ0L6eyVmA9lI/SgaciuzO+tRTWg==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  time: Wed, 19 Oct 2022 15:08:48 UTC
+record: -1
+post_submission_on_open: true

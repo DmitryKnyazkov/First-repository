@@ -1,0 +1,27 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: PTWpM1MzA6VdYoUnPZ71wzHLVbXNoZ1P0Yi4PUuzFflIQtPFS0a63pOqoXJBe2/awy4mr2UAZ8xApaWPTj0TXg==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 35
+    length: 45
+    placeholder_text: '...  # TODO перевести слова в верхний регистр'
+    initial_state:
+      length: 45
+      offset: 35
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: KOFf079YpZGQIU6DiXQ7FqrB3if+qxQdxVyXZ9KCQ5CV9+bA32OACgbV1/43X8+F
+  encrypted_text: uLdWLwdxiE0mYOzWrLJZ9xUZhOXl6zB3YoTaQ88cP3UyM9kNM9xVVpMMiugey/b8R9AFLNXsMapWAi1kANKSBT2ONpm1WgQ5lxE05TPrRvZRQALJAj39hSstdMfoJOJXVSWPZ0M+av7LFCTwHeVoLQc+Qs93xRunbeANA7yUbwA6YfDChjfb+SRJOti8e8hmh7JwBZBNHx6QXpwq5GrvcJ4HeliOFRXfHpaN84UMMr0SmsJBbmkZuUTObTiNVy12x3CT/ymV2B5eYkMGQsbXsI+oeSXoNlfzY5sjafkLw06xpV4NbB9WD57o824X9GYk
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,35 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 331
+    length: 57
+    placeholder_text: '...  # TODO подсчитать количество выпаданий орлов и решек'
+    initial_state:
+      length: 57
+      offset: 331
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: J3Iu8zcuTXHcVC2Pqx21Dpex1mRgrCC52Zygk21HDCOmrk6NYKA92nGnmp4ukkIUquUs7DOLy7XOTjxVZJivXjVYxqK9PczFLxdvY5QJB9HOFK8tfAAsHGlazBj/DLGpuuJh9RK3Zc+YF8dmD1jwO407EmHjdfBNPtl3Iz4JqZTcwiKBAmi+LEJmJx3sQD1iFHGHkRTnQCnu36kBH7SIiCq0iDS14ubWM9Wlk4i76f4EmlFpyfJyd7DaEbxzu8xt
+  - offset: 394
+    length: 98
+    placeholder_text: '# TODO разделить минимальное число среди орлов и решек на максимальное
+      число и сохранить результат'
+    initial_state:
+      length: 98
+      offset: 394
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: WKHfDL5KXEDxN9rzhVxstrhCtApmbo0BrrN2YmxX6iXDNRuNujXHazudCnTwkTdSbmBAmmVjwddSs+0Z/dQM5k/jZf0nscEhQhJ5pDCnvsQG68+x4+wAzSCknySdwHF/
+  encrypted_text: qfsGgOCumdmJ4tbXi5aT9ekZ0W3R3PkxaKft/IDy2F28vrXIIdlXGVs9BkU+DOsI+oEX8Dzd9Njti1g3UkYwaOlb8vMBFxzu+1XYVsITEeo0dyDLfav8MnDN8UjGPy/bgTUZa8vs3NjKrlf3FzU/jAYT2JSIM8GEAi2W4ZdELuto6sF3+Du64a+5isT3KBuLpvYOEE7YNtnd6x/2JwYIR+EE8IOpGJCP53+Axot+HdTZdUEigupdznE81oqtC09FsEMGqI/MXzbJfeoNX6JmULznMulkD0WQyBURZkFjTYTUMCcr35da55vpM/4uZkeR6pfrioGmhdEI6LkOZfHFpZiTbBtu23OMCP5RDnhxMMcCNP7qYG7/mt+Pb3ITEXwHxfxhBIm0p94Yw1tFMz0Ebar0c3I+HNGRK4vByKCM8D6QwStu4cb7rCEWPeoi/9g3SXsCsY2aFhgaeNMUWxbZkvLbxRlt/GXQcRZiw/ZqBE5jnhPfKlLyp+qobkr886oU6x1JJDOvFLLPiSicFMN41LDcqEBa/ycyh7kqsGSO89bd8Mqc8UI5ihFKIkUiQC4fJZTexpwj+dW3dUa+kzXCR6e4KclRbXItXPe3Z36x92VZrjdeYtKh9sNxgcExHF9pvmOsErzsBPV2evlWQveiKkhWGiskWJrxwUhOyDk0XRTSk7x7hFny00fsY7sUY8r9N8uDla1Sr1f8ebij+HFCXgC344/zP7sX6ofa68t+PuO9XRZMj4ZRRlD+ngy8aXkf1LZFyEjJv/B4diy5uhg+bQ0S711mc90jhzjwgZJTFosBGQWLI+ybACZSVWLPmN79uaTvnhibNog1+4LJVkHHYajeM++Bc8ZL0oCR02TMaTCS3gdId3odQxfa182RQ/wj0l+U794uRSMywKY1hC8dbigaMRb+8Z/2DDaG7YQkHp+4VMOPvvGEH9MwHR+di6GBb9e5lS7V1SU/Mt5whqkf2gLUbXIXq7kVFSg5xTiaPNnVlfaZfAT/yRyJm/AFwb8cdJpVjFRSHOJie+0ZZPajuQ==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

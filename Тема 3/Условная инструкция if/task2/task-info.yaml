@@ -1,0 +1,30 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: RElo2gCTkc5bVGf5suXlQVKID2YCZsfPmRx3o6iCx0b5Jaes1LVlTsFJi3yTlY2ueIXRiDJNSmwESrokVprG5rl15YM+qcv4SI14a4WBEIZw28y3Os/Uhs6ZyzmyUEun
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 126
+    length: 106
+    placeholder_text: '# TODO записать условный оператор, который распечатает строку'
+    initial_state:
+      length: 61
+      offset: 105
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: dBF2y/09nVi/IelutuX7iszjQvK/4Yu4B5jXPyDcS9jGe0PWInEUFLrV0B0otZqiJxyGbBBPDkPpvQVHqY5/l9BJqWhasSdZaRBXERhEOL0xNPfq6V2uO7irGlVeyI9l
+  encrypted_text: SxThbpSFvEZSyUhuJ4lepe4Y77eHwTTy1bmqlrIKrO+H74XrGrNEl3rEZNX0xvO66b1Shsm4HEnXnfVDW6pgRjX531RmGnshy2Ytk8aSDWAtLv0V2oeHU8397NT1HxgKPCUmxuJipuRFGJFlLjfAr3K4ZcdDKW+pshxwVnPGBS4KDOl+B1KOw/WyAyTs21w8Isui9QV96e92uYI4mU8Pt5R1muMgCqw1kBAqZtiMjqCoCV4/y5uSuW3oUxuZqMuDJyPW3JN6h8DaVtgL3YBKfpCqBYu6IFjwa1/ojVqDhTjqZQbYYXj4M49JUOAGXljvC+aMeK7X+4EKsx1mJzL9QTCiEiwaU9LvHHB/GU6FkMgUZ+Kp+02rBBtGpTESVA7K
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 19 Oct 2022 15:19:21 UTC
+record: -1

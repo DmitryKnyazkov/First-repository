@@ -1,0 +1,30 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: C5lWLY2kal4FdUhmXqessEP2JWs4RZ5nA/lNlI6wVK8PgsrNXMFnnaOApQEaufh5c/csmtmRSfaaXGCdm2y6VwZHVSmcsDnyGLKe39lsg9s=
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 80
+    length: 41
+    placeholder_text: '...  # TODO записать словарь времен года'
+    initial_state:
+      length: 40
+      offset: 15
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: h7iuxkk07DGW/g9z8kCAEvvQmq6VXU4WcShD3vtGILpwOHHDHA4hb5+wp958ZcnoyP7gNbPKiZ9aWKkrkToauNgNMbfdjRqAaa3J2hbbhFZTACEURdHHO1SH7DxLjUJx
+  encrypted_text: KZ3adkOVqnxCwL13005kMnMx3fB3mmvwi3agrpsm/iB9eHkVRSZco8Gk7cv0puEMjewfwm/cKktoZDCtbyOmgMi4G3+5WxwmIZAEfDEK63ImTYlgdm+RPdLV62MHLbEwl/+hb1P7ARk+gwFtjPVFiA==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 12 Oct 2022 17:32:15 UTC
+record: -1

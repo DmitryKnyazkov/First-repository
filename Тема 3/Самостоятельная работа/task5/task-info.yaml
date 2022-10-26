@@ -1,0 +1,33 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: WF6zrQZAWV/KXZcwp2axiKaodVgyeMkJCY3Fs8EY0LvD0ccPXnlaA3dA/cRPQcygDErOhksPiAJ8tDpBMDpkeOhrAwTztkyVAXSCFTWiCTCXYJNFP4vgRKwGP/XsG1vF
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 161
+    length: 182
+    placeholder_text: |-
+      # TODO заменить на enumerate
+      for i in range(len(list_)):
+          current_value = list_[i]
+          if current_value <= min_value:
+              min_value = current_value
+              min_value_index = i
+    initial_state:
+      length: 182
+      offset: 161
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: DA3WzYcgp6r8dY3lM6TXBCKjCImA8j7YRgDYK2G+8r3cuhOjUwYiBppq/W/+aAuu2P5DPWuhZiS5l4VyqgIZLMtGscvDW90+A8oPjWf8yulzw7OjOrTBZlv1Mb6bkWlFMjM/dYxgu7WX+ff69phYVXCjeZo5P0ajthtjkhGXc5siiHRL5wYBQIdAk9+Uxwok
+  encrypted_text: Dys5WtqsjzR2Q7w2aJGBOW6D4vg8w0kcHUM622wz8mzSQmpfw9aXpRm0WGLkseQMgNImNvKPKJZzHNYnOkyQErbHmyMM1eOCLmYMJ4uRWF3jwAsd2qr1BwYaSafwsflgqsoigEviSAJP/MRuRRmoJ91okPuBD7BuhhLe9sjwkZztRJh2JDwSumzM5Kbq5usvEdIskc3h7DKWu/Cqc/KPdQqYnv1Nj3L89kh6eaPvzsZRZkwX+JvnxMT3TcKaNfZPDE3SQR3p2s2HogepFpMItNTRG2mEJcqphozveW0pclauxhqrf/fOc8f5+cJ323DCdJ+5NTahuup6sdDE8MEJVCsdatC+JxgzG0fIgceTwSm/PJPqqIJ0gnWZqZNmZQiCkSiVT2AF0pULI7N/RgNJrCD3kENnu2IdjHgjCWrAd1V9JEeh5n3xDIVwq/1YZZtPDLdAXNf/8C5jF9kSPyKxtgwzsHcfYMRvbe/FP8IXPqp/oWqgPpZnC1yxEqP0Brdb/CEmuxpO+Lb7YdBVEdgCqNPHwGqrrbsmXoS32XjZUxnY0Q/pX++/W6N2aZAPOsYyTNfvO586qIGnGVaChyuCsHUANX1fd1pWwHpDuCmxEPnrz64eMh6iWvV5B2OUdQ3auUmsh/1h2z+9inlfTRm5az7Na8LFO3N9fNqlOmzjwYDSiwql8ce1gyUOP7rlXvUp
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

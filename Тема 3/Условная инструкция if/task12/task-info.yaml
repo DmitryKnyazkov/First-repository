@@ -1,0 +1,31 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: zZOvjmLbZjwVZIht7wi5jiExlvXK7IkkURbE4EmppIodTbqK4emaOCnd8DaBC37REPbVqF4/H9mOEAaJy1QENw==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 260
+    length: 92
+    placeholder_text: '# TODO добавить блок else и выдавать пользователю сообщение
+      "Такого месяца не существует :("'
+    initial_state:
+      length: 92
+      offset: 210
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: x866Q5EXUCjM3s6QiZBHf/jVpIJuyAOyJ7oxIoJeYI6M+lth0ET/KcGwoUzuLoXyefCnNJK34iKz8bgB1v/KdUQUQ7heK5C8ExPBWwlvEBs=
+  encrypted_text: 7JVns/xfgWI9Vl2FGc2uqcpfwmQrVODYAiXBxP4wRADV4q8bZ+wopL+VSnHpxCEa1WB/2V33W7AhXoEoPRt4eiuwbVZXXRBQNx1TO/hGylkIGnr5mHlp8a8m18PxYqq68dts0g23cmqSKOyVQmNQBEu+fDxNPkXWSYKKwMRJR9HVYLw4079hPRXPd4tNI6KlrPLLWbPvi/B3rPK1WqnHZjYZA5/ddBAn5IR8nB6lGvLNeg4wXvr3qI/ZADHHppP3tVB5OTrnuzi5xY1v0No0fveOV7nAN8czvo/9Oe9EkJFEvQgJDkArendQyBMpY6S6gDVYOJFFZ4iV9bBFCYYw/aYqBCrLnEJC2b/6bESwKMeuXiqewGEmoNHCaIEsttICZDOWIMDcHGxpDmlJopRLv3+OWYAWKp0cqZ9fjfOF2VYofL6mOiJ9a3WpM9VsRB4f6BeVsDY9mriXxf4iooHlGvodSYDb36xf+Tj2jWV34qE3x2Xsx7hYgLR28+6VwoG7gzMHMF17tTSrV7bw4mgFTPwr0Up6SI9YP4+jbPqDGmg=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 19 Oct 2022 16:13:19 UTC
+record: -1

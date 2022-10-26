@@ -1,0 +1,15 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  encrypted_text: S28/xo0A9bFsoWArnL4ilsc6CRPmjWx5+BmMW2WZ3sd9dhN1ZxaKXZ9/bVUVSj8YtCOZKturgtevvwDe06o1ifUnWecm6CNst5tQR0+uFnbdz/MN4Mepx3P7+vMQMifk9h8HTgzzJB02BbyB195rulu0xwd9LGIQK4M1id1ZRZNPDqd+HF7ELJsWiF1B48gfRx+UpPXxVu/tSXJiT4hVQuvdNnCtA695Z6bSKxQpQCrXI7rEHN3/MfcE3OcBeSCRspyUGfztGOldUB8RK6R5SahgF59CmdhEiK647G0n4800DmrOK+Wxnf2J5ZMfJg0oDyJf7aACRxouyQpYrgiFIOIyIz7UqMjMDHaVxkqvbpUaKqoyrShhwJ52cUyQDz77odxp2Ph8y0kAB3nJKyi28TsfNNUwe2DhHpTWHrfhMoEt3FztVKh6EBywzghdIgfe1NcxVMSaJs1iUDqST1x/b1pv5Bjt7Z+/RnWFkzDhtIg=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  time: Wed, 19 Oct 2022 17:10:36 UTC
+record: -1
+post_submission_on_open: true

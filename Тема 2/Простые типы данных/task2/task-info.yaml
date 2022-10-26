@@ -1,0 +1,40 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: pY1ov5Qba5o1yv+N0A2pD0z/sPWOtzXncSVTBM23YLIS/QDsgpeTdTRzHCFM5t1YB+bNaP9IeRXBVQiYYmPwLlGeGzokSVT+DjOiNb7MJ17gmgG4PFBfGK9hBclfNa7W
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 126
+    length: 37
+    placeholder_text: '...  # TODO найти полное количество дней'
+    initial_state:
+      length: 40
+      offset: 99
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: AfTQoGtJr2IrQYrbV2BLjJRHphEZsprGlQSWAVJHG+8=
+  - offset: 198
+    length: 0
+    placeholder_text: '...  # TODO найти оставшееся количество часов'
+    initial_state:
+      length: 45
+      offset: 148
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 3UstJK42sdaBOwR9wJxXRl47ZZtLij5sgxVwDF0YL3M=
+  encrypted_text: QBTT+6a2Xz0xm0z/1OHkuzXubBFW7TDpuqW7IoukhQR5BTJYB5Vq3dGJxufIZxInWtO8v8UpSCAUoNQ8u++/d3PyCCyJIF1DLS/ZEm8e/noy8fdjq078zpGLXu/6J4759nFICXEyU07b22IIwubpRh7gjzuv1ix2RN+ldUxcrsfEVk1fCd8TGErproUuV8hcOa6dXpNLY//AcPUpo8QAzsEjxMuYKDleLgsCApTSm2I2bdkIF2tNQeAHI/a79ZakZznU/mkgDBKzvgJTBz66oD2UtNxHR8quEVsmnkJ1KxlLWnToAbvvK4MqHOUUxVehxfOMQJwQpwFNMYCjWKj7J3HsuMtouew53fYj0OdislT0qsmP+xus5xO89kL2FxIWd9LWQEkuRGMBvgKMy+J4Gdxjrg/yakAoaI9waP2L5U2xnW/fVsY00bJrDlvHwTwEkt2+O2S27WUzGtDoIrTX1A6bgsWKJYDs29knq76vG+k/vtegZw08VG/JgdPfXZnoH8nRfBGVIFtreZgwvPCTK13UL/c1JIqOI3xQMrgkFNY=
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 12 Oct 2022 15:39:14 UTC
+record: -1

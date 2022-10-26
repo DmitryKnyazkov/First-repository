@@ -1,0 +1,26 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 35
+    placeholder_text: '# TODO записать словарь с описанием'
+    initial_state:
+      length: 35
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: fsUWsE96TUHsU/+hVNoZfFU4aMIc/sTClBEWODSXzscs2j0sAEqBIZqQhgrxtMZ8ePsoPHjr/hh/ORFmgIIwpUTKwnh6TMuD6lY/4F33CG46UspaCpwlact6RLgj9yo5p5E3FHEW3G7MPKRF26K/qJKwL7yLk2OZ5Ycc4FfDE3iF/rLgNOF88SAP4eQ7f2/XoOlXtXh0i9y2BwaXtdZ1Nndcs2EcLKgpyO5Faq6mzx3MJFf3RAA27Jq48bMEpYVI
+  encrypted_text: MlkPSz2a9SYI6paAoIMaQWlbnxvm42VAfDwqK6U1tET7dsqBNv63xgmSOGoGfL574IkWigcF26MCQRvVvYx1Og==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  time: Wed, 12 Oct 2022 17:29:32 UTC
+record: -1
+post_submission_on_open: true

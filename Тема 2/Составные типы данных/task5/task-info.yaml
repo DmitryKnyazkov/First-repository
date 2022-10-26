@@ -1,0 +1,18 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  encrypted_text: KDUBVXNcMz4VQ7BSyH9ENJ1NTYVTZNo9iUa8KJot1G8ZINUYWcdq0TiFWWNNCb5QpVMj6yzAQeGofmYdOLuF+oBAfXUTnPt+eqx/U7Co4HP5/m3GUC6q4VbP5FSZbIE34BPntr3c1aYG3iY0emLH/iFUHaox1CDWNT2L1LxrJe75dl1fscBFHY7zimbEOnrQTcYdDTgVrZlXnFt7cBcFaI69rmG2kaXBQ91wFUE/YIU4o/4UeDfiHViHkTCihaXyKBQQiNoADwV4ymlByFbeVWYP2xXExigqit9Rtg+4YFQ=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+- name: sequence_slice_step.png
+  visible: false
+  learner_created: false
+status: Solved
+feedback:
+  time: Wed, 12 Oct 2022 16:42:18 UTC
+record: -1
+post_submission_on_open: true

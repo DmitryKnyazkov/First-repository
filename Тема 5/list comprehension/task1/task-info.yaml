@@ -1,0 +1,27 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: fuyiOaU20Q0ZFYMBD6UJCiZ2lhT1PqIm8qqOS7kgmDFidjKz7z8F52Uvl85QLin/kJ7pS2ES1QEQQEhXvU2Zah1wfNu2KO+vkUpNHqyK0RM=
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 157
+    length: 38
+    placeholder_text: '[]  # TODO записать list comprehension'
+    initial_state:
+      length: 38
+      offset: 157
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: I7oulLYYDZilXVq5W1fCn7MmJyXkmE2nDoJpUF0tn+0=
+  encrypted_text: KuGM5UDWAO91M0aXoO3VH2To1qPpdgNE0S2j7EyBpuAXw59Yk5jTAsTWrbSQFyDos+537RvgePJbBU8lP6SNLXGw5X8EIkJLpmiwQLovAtCOtl1qZw7s+FMeqNwNheiK5syWzUDnQUIFednw0f5AGcWclCGwt3iAYuao6t0qZx1nx/iFA1GUxZDc5+d0kIPpM4ILt5mV5BXjEht5zV03iRj8FiIgHUCMd5/IVxgTev9QMKH5lSJG4wuOGLtjM/1qqdo4xez7NW6SzosU2fdG4JFBHuJs9is1Mk9ugvXk+1j6d6rIOEBzWho/lN3p4Fa9TkjHsj8FZIeBzAjsa+NK45WGvy+JrxWUHbEiIP2Vu1kcyD9S7RSrYt2lPUMQTgpd
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

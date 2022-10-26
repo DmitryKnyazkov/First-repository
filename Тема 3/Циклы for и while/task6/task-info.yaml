@@ -1,0 +1,31 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: yT6X9d5Urun5WW9TZk92bQ==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 339
+    length: 89
+    placeholder_text: '...  # TODO записать условие, что если встретили искомую оценку,
+      то счетчик увеличиваем на 1'
+    initial_state:
+      length: 92
+      offset: 338
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: 1Va5ugYU3WcMcu2p1XO/11f4t3GxHtUQaWS4KRmglXENrAdY9GLETDQM4SHJtUrA
+  encrypted_text: jS8HtiUAO2rj9tpyZ1Hs9C8al0cTzCJSRiEpB36XhrBszY+cERjYSKIeEYi1hS/WVd7l5U2LGyIPHj5Ynf72Rb5EPMoysJt4XMX3hmqbmbpYDwUP80vqZ+umtCq65RfefwR5aPk3mApt08w4HGI+IyFkdEhgmNjTYRc3NLgZs9Ii7s2rVBReHB+EfInHX4RnIHGsqBMeJS7D38kW9Y2dSECBl42V3h05fk7XosEJYK1wRfjdvBknBzNcK9HqjjkUEzGAqVbY4vRWQe19yEE9swZBP5pAUYF2SLw9H79uFaJxgJMiz3zk4K5OGJTFrpFe1nP3Oq9sIO4lM4Aygc79zw1ghDj6K9POGOKX+Gwlf+6Z62eIULB4ZNvnrYrnXY0PB+vPduw96Kv1lfJpKffzgn6eC7Sba+Gb4MFpebjDeRq7hOgz0YcXnLEgK3Q/QDzBmdu+TrkCgaYIspbPF0JILpwmlKHAQaLfLqmYIxQ6PsvRDU4wrVg3CSPBaG2gZHqyQfCZPmXDVxaHf+0hOz4kSWtdcRb1j2omJvy0ORQBTui8ecxRs1eTiUPeNqbQzAEq0NTqPFa9AbUQaQKtxvqqqIvRC1ZJIKa1nAKxdtMXiWBkk6yP7Axzf0B4LvDSWhBAH4XTZqE2T5zETO+vjOGis8zGzHewuP/0s8YXcrgd+pbkLRFG+QQiHzq/8WNcH8yZ1NrXRoXc8UKECo1E9CRJACkHmT9YzBWaRBOiCGgSpZ6KVRcN08/8Swku1UOd7xaRP/E2kblLiCHIT46xQ4uwZ2G1w7mztJHUtn7EEUYKFG4=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 19 Oct 2022 17:06:07 UTC
+record: -1

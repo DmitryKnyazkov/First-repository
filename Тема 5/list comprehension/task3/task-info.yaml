@@ -1,0 +1,27 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: GFysHxcy54JoI/aMDpWSW2rPv1Iyw0LLnLWBYhTHh3eyqKBailCYYjlmzUPsItV3y2bWEBqG/EGkFGVww5xJoHjFifp3ubZ45Ro328yXOO2kIhMB5BkO5UziuAB+g4iD
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 303
+    length: 35
+    placeholder_text: '# TODO  распечатать список кортежей'
+    initial_state:
+      length: 35
+      offset: 303
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: w1Y/LEXZLV1lDf6q3o030ZOccPH1r+xtAfzVHXUOHCHa5ieIy1xHdaI8bj9YWARXzojMz95qdl8CVAUIaJazpK3gilSpBRpzyrsaN11g2/Q=
+  encrypted_text: NAz2cfnHRm6GTC2qH10M9BbXrU1QHoUhPXPQ3dnD4bs9NTZ/4Y5HTCVHC6cDB6uMgvKfhxFHf024DsMdE0iyDQbLZbyxCtDLepqjFDNeoCiW+HtLwDrSdDbRt5zUjJzZTaccY0gu9XYjm4F1+ZK/NvLlzEUUki+b7F3hBYY6MZAyPW3eS0mpuUeG4La1sF03lG6UNcwuAxApJfwTT+mmw6NC13O+d1ZqmRnNeQpLVWp3xMskpmD1KR71f6SiC1TZ/JIFN7Oai7Lvsj1nM/iD7jaHlzh5Bah7+XTQBPQfs5w+vxTIC81czi0/jLN+lBWkSQmgb3euX8Q8FW4Lg89CkEoKzDoojDhTAQMYp01HlJ+45bnO+42vQAVl1CDHYVYUAHyhFndHjCdFFgRb3pZDzFVw+3xNdIufpmrXkxwg7m/ceLidm8FzgvtodmsMuL5a62wXpGZSZjQIIg72bdztHtyYhCd3q9N/y/CQEOmhRifoUc8KjPMvttjOUBFhJbNWrcje8iy0h2qQKodBnbUJVA==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

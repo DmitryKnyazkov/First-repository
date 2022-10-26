@@ -1,0 +1,30 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: JM6NmPLaRZFKEk+SWPIjaQ==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 50
+    placeholder_text: |-
+      # TODO написать функцию index
+      def index():
+          ...
+    initial_state:
+      length: 50
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: tJu0Wn36hpN60v2tw5RY9HZnGCdMmkkqYF/jbKUDVzgrZDvY4y+2n/3cwtNBnO4T2bN4r5hpIJWwhbmd8890tuA5taJRKhulamxeZcU8Zt6ikPxsUOrz9udbr4RptIah9j1Vx7F6iC696ySKw5VAiEu6D3uO1waOd8LhiZspG8v5/vpFaoC8YwGHEw1xsCEv+pDPPMCTQRI7SNzylQfaQbD2garwOe1u9bEzyGRSW29jyIlcOESd56u7BOuDkmRtr/e3V7wD1ykYe7+25GMelpdrEYR2+/LvnejbsuXeFZ8Mpl3z7cz2q3TLjpMEfdhT
+  encrypted_text: l7exSzq6xdZd2E6OinmQ1YEqO3ETuro+I2AACVx31vCG10sBymp3PVrYex2cVO+DKraks/bYac+zFZVqeh+UJFdR6pDsVRknQvBlIxLe/iHL2BbyBmEZVpNcdqTyvvvz6Ploo9tpNpJ5w8V2D5ba+HhcCcA6e1v0Gvc5hkdm+gR6auZnD10xdTWeJZtpyDBXwTOI8n4r6uPtzMTgAl8SZA==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

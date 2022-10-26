@@ -1,0 +1,27 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: Gbd0PZNeITLvWCCSiiyLcw==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 22
+    length: 43
+    placeholder_text: '# TODO округлить значение с помощью f-строк'
+    initial_state:
+      length: 43
+      offset: 22
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: XPkkodkGQTsEeTHUIB8GzDQ7qgc/10xo0kirVeA3ofM=
+  encrypted_text: kKsjYblZpOIG4FTPl9S6Dr7RxKlbcKBp+GWG7G9kmqtMGyt9I2r+AuhLsP9FnDfS+8Vk4BmqLOFy9GhWBLilQWzsjunXDFNjEsvyb3nPvoL52sWas0FEs8TKDzBFuNUZikW448x89k04DmqEMXyjXw==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

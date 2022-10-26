@@ -1,0 +1,78 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: ZLLa75XteDWFtSMPHXlstA==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 38
+    length: 67
+    placeholder_text: '...  # TODO c помощью list comprehension получить список цифр
+      числа'
+    initial_state:
+      length: 67
+      offset: 38
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: TblMoW6K/ud+QVDpIJu+RHaPaaPW5LqloahCNNKsL/eN1uee2tioyjBsa1r3iygP
+  - offset: 113
+    length: 35
+    placeholder_text: '...)  # TODO найти сумму цифр числа'
+    initial_state:
+      length: 35
+      offset: 113
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: o42Jitvkwe7wJ8d/jQOx+snGUvPSRba8q7TWMjPzcmI=
+  - offset: 155
+    length: 42
+    placeholder_text: '...)  # TODO найти сумму всех четных чисел'
+    initial_state:
+      length: 42
+      offset: 155
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: tqmx8KnrNZ870CXoYg2kmvyyfy6R3krZSDH3SkuHdO1Mhr0szpI+1XhLY43Es5A/J/sOeJWUBXvgTEPu1XV/ww23IjlPKxbET/ici5vnVbo=
+  - offset: 204
+    length: 34
+    placeholder_text: '...)  # TODO найти количество цифр'
+    initial_state:
+      length: 34
+      offset: 204
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: lMFwoHHzso7qGHRJZnpRkMoGS+HuUI1dlIEuGwD3Pfo=
+  - offset: 245
+    length: 36
+    placeholder_text: '...)  # TODO найти минимальную цифру'
+    initial_state:
+      length: 36
+      offset: 245
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: +X4szHMXdPu5C7+++as5wDYStNZ1MSe5DNjF9Iq47j4=
+  - offset: 288
+    length: 59
+    placeholder_text: '...)  # TODO найти разность между первой и последней цифрой'
+    initial_state:
+      length: 59
+      offset: 288
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: G0E/coitsgYGXzyMy3H5g2IiS+OTYby9G+xANVQ2fZqoBs4Cl70xcG7LmwAhAUGC
+  encrypted_text: NFNULSJ0sBJf4L9r3S5MvFL8CE2I2Ty8RFAXgFns2KZJme8bbUVS7uMrA0KSB2YRaqr0VbLtlglpd4iUpNDLkAk/SdHrekBpAWuxu5n9ZsNLkDUYBRorsfEQeIqLJIN58LniFDx2MD3C030d8u47v1CYp6LwV5p1F9OrFyOYXTzfLn8Q79sRQHskotSdCNh++tFEr4PHDaCpGfHwIiVTR415q/OHn+b1iw2CmsWgaR7ViDNAAfERDpHpx5xtd1oAZYZ8BnTCNKqbdepMmZdt7100FhnZ5W4mChIUuOi0SAu6j2joYG/WqjvyauCZHIvPtitAIKsKSWXIOdyquuaQNVnRC4yqPXcWnXbr5s7auofu0rV2/KpR99Nj9HxV0DlD0rnwXq6F4d99jM15pzKHzf0KmfccdebISW4R0/S84kM8t5cHrqrK7q0+nQj6hSndM2Hx/DGewStQgDhrDdeKxbNGeC1nu1Pay5YsM/9vK2P8sov9S5PyFLuyqhJ/Y9aOCAv90yYrzEWDPNndljl8e3DTAH2Q33NR35uYvjXK4WQiNWN9HJCEryQfyR6Han+VFgGVv6zqFHOqITYP7RtD372t7mCprnXG8pKkGIoTqWDpnmgW7LQOIPN6hQCCgzoHO/XuSrJQ9tsQutxl921acKIkH9Or9v6f/zJY7muN4ao=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

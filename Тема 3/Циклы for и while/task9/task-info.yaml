@@ -1,0 +1,30 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: L1ZCj4WV1t4EpusMFwUiL6OreUgz7we3xYQfRNBoYkZMyy86o/iPmhhv1ujuACBGsh5sAO0aZ642HPUjlNOMLhVLwbBs8QnBWRal2RHDG1BNf7OUO6YL2dQdnTUvzWPWy7tKeYMOMW/qlYO8vfp/0FR32kmi6mBvRh9bch3biIPWh8i9es4RgCgVT44iiAm7Qoc8E3wOUvj+Y6J6SDOXUDJKmWdXw/tlIg+EwZblGYSJBgmdBmKO8nAJIW+aDCco8FBXrop+bOY2ps+J203nCAoKfohlkUnXflc/Ma2b3pXM3Svj4I+NY/2ILwe2KKmEKk0GU3r9FQmqps6ZHIBzh9wKBLPJgn0JnJ8a4OGRLOQWXV9M9E1J+pdqsuycZCS0051t0qbvrKL8IgpE5onIT1iqoo4B2hvlZL6/XC6SBrHEFlLloJtVvgVC1N2dNunsYBHkQPw1Jd5jkhkC9tzb+txvt1utDLRHNybAkmv/20biThBJ/7J4AXOnteyQxKBxOU2hwsHEXjrBrVapsU1u/MC1WwvX0nLMTZGt0Pp4DU5/yJe5MxCfC4lfHlGhD9dmAUVJ3qNg4ifTiKDbA4A6J5TXO/TmndHGnRDezgyCAQo=
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 510
+    length: 38
+    placeholder_text: '# TODO распечатать фамилии и их номера'
+    initial_state:
+      length: 38
+      offset: 437
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: aUkD4Ebjbf64AaM9x5Np9lu6V69ghruapCsayvRzjhNS8D3QcBbdBzXPMdaJER7DsjngV33uAksQxUajZgwqtGPCosRUEJxhIV3i3K9kZ+P/cO3k2QyfPq3yshKYlpan
+  encrypted_text: enuXJLHYfktEp1JvQ8IkSatkVvzD/UeVmxYXRrpJgUC9DivPfODuHj78LbZRYIhKMJUJv2/9guKshBaODiA6t9JXl7eeIEZHh3oFzxN+KuBwGsActsgKDHOOsivI88rOS9w9+7WMnhXkTmtmIhwdFRr9Jg3faAU/B8tErZlmVOpD4AXhB1cooL417lmyFXn3RgbRaiG9UKXMxoFvtvfMESSQWK8Jj38d4pkUEpuPyBvI6m070gJd9IFPJ39meMiAuCpRjXFb9ATsVzrYy9sdgvjCiXrqwCZ/ya0ldoASDXGLhMSQtqU0oPwVvYF7a/mdPOCOvY/rh+Z3IrjUGrvQg0g3sFVdEEag69DY9OTcR3+5/zWI3efK5wsNXpXgF6ymB4m1ER6re5rhpYCnSuY7Fcd6Jnglt3T4OHnfXEwGABtqgRZc+0Yfck6Ei8XM7Ws7Oy78IiRGgDDaEoTorof8Xk1bmRhn6mY5FMWJrpBqz8UjebyWYG0HD/adHzxPdR9E2sGecw5le2wR72LxQ3G90lA1WWup26s84npZAJsFISu+KdJLtI7G4w2t8E/Zi9uvSw4w1GXZNYQ+YU80Ti8CZnh90JA9UCxlHmbEk1aHWyMjs+8JrLGwYoMPMt2YoIiPcOHwJKtI2HCBe/AskIDIRRCfJgBPAzfxWlRrTawSm+GHZnTi7EygGu9JaBz+pGBrjUvVxYiJ71Ti7PVH6F1YKQJBlTIwUVsqogkha/TEZgoDo8JQjPhhWTrAZg8fQBQJiwOs5sGwUxTVujJAcHsKLYkni04i0w6sfayoXWxuvk9VQIr84CoaOpSl4g9Q7dxbUAZp0L3GXe0nZMSl4/uzvn8aGcr7+faRqK+Et/1Cy09luKJNbCCbAgXl2/HO8nly30DMU3og02dpAAS8zW/RfvCYVo6DVIvF90FfkpbOVWYjZyZFbU9q6kS1lBiH4kDU
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 19 Oct 2022 17:13:28 UTC
+record: -1

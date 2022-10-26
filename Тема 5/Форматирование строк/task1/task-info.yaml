@@ -1,0 +1,27 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: usg5uJagFIPoAUKzkjycQ8isXxvLzcwR/l08mh4X+zUF6tZ80EgaBcSXox32Xt9GnjLQC7x9kH+c+OWceAmXvMZvhqLoMiF70y/cX/Wk66AZ6A8zGkGN+LPpccRbmAwfmyGjUYYs1UVzcjXDBBh4Isj4ELoh17KURI1DItKVTKum55ISFfxgUEigrm1n+ZkAZWIghL9kVFtuqyGixhB0V2k46kuUFHGLMZM+VA9NRthWRoTp0F0EdC3CsoyFvf7GW5qzG1XDXFURRMJKIo2K2S/JWGCP+VkUXiz9dV03GlME1OTM05w+qqQOHIQPmfX54bKRJV+TRI1pbsB/JEp1AjunhZz6wE8rSwAFr+TjO0BnXMroFYIuT3PLfkyuNNXj
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 106
+    length: 43
+    placeholder_text: '# TODO распечатать с использованием f-строк'
+    initial_state:
+      length: 43
+      offset: 106
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: aBkiJwCMdcmZOwX9t/40sZMqo1M95EC+yIlXkOzR3nUGQU7tVh5VpBAHgZwSN9KeJK1h/t7UjFhGivoD14QMW3xLUJ4fR2duEeFGZY1PvJcE0zn591Vn6l/M64SBm621fBblP6wLumHt4FzCiwK/efWTFvGjIRzZaf/+3KsVLn4=
+  encrypted_text: Jnt8FkEgm7q2d9dxdG5GceDsv/uAwnrfmqqgprEH+/xqpYB9wxXqLURlX+08vfRwOjxi30tFnLWxsoZyEfuk1qT/Sj4FxdwbSY7PqUhYYjO+D9G0TtV+kPjmmB0K2kLVqHeJgHVvjEuO/2g8Q65QLikWIvdcfJewgs2R7uGlYjSQAvPtlb/NsyliyOyM6EKa5PpV2Pii5yupFxTrbANaz7eD4vPQk8E+uxFLaAoMJfOqvCxVu8PTpmJuNB/U4whmHNEnhFLUjZdkoy5ZY02Jdg==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

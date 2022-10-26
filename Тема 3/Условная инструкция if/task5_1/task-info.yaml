@@ -1,0 +1,30 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: KAPF9PTejcIFXNtuxWRA53YB0BwUCj2VC29YinUqk4nPwfYL241SalfLNqNMPrcOU5K2gSRMgICZ7+14pV8a9d4jOl8cKhYMxPl57wqNpPc=
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 194
+    length: 51
+    placeholder_text: '...)  # TODO проверить наличие искомого фрукта в корзине'
+    initial_state:
+      length: 56
+      offset: 172
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: 51yzwXqEUQQ95FTxtlFcv4uLXFJyo60UPE417GGVYrA=
+  encrypted_text: E8TgiuPam3WMQnAf22fYSCX/c+PjvXAWnMeFS+1Qg+uQDDxaWFG+HMlXSaXbc4yU24wK0odBy7RIArZYmMbWasfaZjmbMZxaO5kDZpV2o+yUpRsMJltfKYAZiXT+lsoQmEkiZ4LFkONEbwBDQlRfspLwrcuRawfF2eDA4d8cK4Dt8/6e3XDalgZ4aqBr2ph1vYKfuScw95W3WRbDU41u/nYxySWdLbbAEHvCu5ZgktUaR4JDbmpPde+nAOiKcHy4ZabMfTPTC35JWvjIXzUHQ0ccVG/K5eP0TueX0ZNvDhSLBBkBNIsM+daS4OVZhIWYXg7IJT7OuAxmY8E1a6XnSqyhQ4guUDRvTmnzBTqJCosQNl4/eiIr48EOkCDvrBR7gKFSKQmoTkxfHg8uHZ2yJ/GzcC3t+koJhga2sfPBd9WQlhbLcPtHzU2YozOD8BPyuuQmABVaocKtVTO/9szXTA==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 19 Oct 2022 15:40:56 UTC
+record: -1

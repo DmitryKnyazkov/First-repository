@@ -1,0 +1,34 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: v3fLn47qScyxKtBXbP6vBizubqsdMuNaYp02hFpJlnFChEvVxEC8Dsi0TOTys2oHdyYm295Ugj0VbdjYrKFF6Y3p9y8O/xkPI9nK/gFsvtkNIUEt7dDfDcaQMxJitZNg/0HXAH6y77R1p2gre2GuXc/ZereNc88JR/uPmE3IpV+KTVYvHJhoEGkMzOymMCfbUtRzKqE1hARGDaVO9F/7XGe1dKqJPqkFQOhFYWRFKl/zbCvCtMAoV1PgCu5i0o8DALAoJGAJuXtLHlStJqHnGQoCBUCccJgPX5bnIDN+gVZ+G/xQs1z86IgFnXzHL6Dg7XI/ut9h73f2OPe1kthHuiv/8F0giIDSRemxCGZrZ+R5x8mSGOf1Cm81df9pVz6DcGTI507IuZQZKjB7NWbu6gjVP8QD3IflVL2/+xAbdp1LmG/TjtwVnzurAg+fcW8EzCNnA/jNy9X1gVi9lK7B5t4TUGq7qlIgfaUisoZTDj3VFV1hRIGLYhC/Lu9oMuhFdi4q/Blg76uQR2czuNvZ6nQn1TV+eRoDh7z/WluBqdTEwTTmYU34+kbkcbr9g3nq3/I8oPmLEceQLVYtAxopahPiXrFf9KSPZOdBqr7hZvewMi599jQd3H6exNWvD2QAvQ19o+7A/PNxMtcjKKHIdqUBDG0fkxKpBchoACo5GYxwV6tkZ2xbVbCwlfh637AtY0+MZUfMc2W2n5r925pZPYRnwcEHQkxGnygFzk6KDVwnwSDclIJgKJ5348ataEAFswFsJGR8DVzsR3LUo/pu+sOuhoY2hvlH2WerbGlFL4JMSczUKYIc1bunjOLtcXHaGbHyOTdTZK/0f62jXAVa4A==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 195
+    length: 306
+    placeholder_text: |-
+      # TODO переписать на цикл с постусловием
+      while sum_ < max_sum:  # делай пока ...
+          sum_ += n  # увеличиваем сумму, равносильно sum_ = sum_ + n
+          n += 1  # так как сумма ещё не достигла нужного значения, то увеличиваем переменную счетчик
+          print("Ещё считаю ...", sum_)
+
+      print("Количество чисел: ", n)
+    initial_state:
+      length: 306
+      offset: 195
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: Afc5ZEjZmvNP8Uu44XdivB2kfodUL3QjLHkQXUz75NNpOzBi6tpbeH6gZtNJbrKPR+WuwUalWD8YYAtw/K2Hb5NJO956lz8F6BgEo7YCATz9L2yQlylZGcbIdFt8fyIo8JIa1UJUYun4oHpS2+px+TTEnU/g4s2UGQhWHn0pcaLQCkzhgw9vqjURyMChPVgA8ZIhi+tOv6G99OH41/HaOmTDaBPiOUrzSqZVGAzRl+gnunGaE+bwlsM2/yLhYG8myBfmqktlbvfXSaMSnaZeWNg7gCoWN1qEdvM+BPhe8VexEzGzA7qVG0vRQMalxn93MLXM541IVvWuuEQn4KPYV6WiA0DPQ5O8SlmZQAlSrVtPjyt73Qlg0T/79el4HUrtDdZ0HJxUOhnRTrAFtTmzEQuVf/gWCxV4fuhY1eAqXQaVIydZyvEqfkUuZyKtXnZu1ojb4Ni4AL8eaiq74G4p/X3D+mY5CwW5qN8RSc2EvV1CXCLlllIJge9qdg4s1rZtGVKuYOD4r0/RUNXIc3lb5Q==
+  encrypted_text: kQB83Dw9Y4TyLWOFE+2FJvfJCIu79TH0/15pVC61aUaDNGKmO4Ry+0HXoMwmxO/r38OsJq4IiAxnHhuS6Fz2mjAf6y+QZGsGqrt+dDIb+rG2iolzIatfcocM7OBBX3A6KLW0dK7VqVfmEbo1S/FoTncI27a7NwYnNlYhjLgVcVPeqhKpQkIXfjn90bZ40zPhEsWQGe5VZLsKqtq+gQHI/dslxeKFVr0Qh14KoUcLLVddSnrZfofBrQGGtZlYdcHPqk3EztmcAOn/9OnXNlAXuiPoTXeVlo8lZY76rB2LWQPB6yIPrWcE5ZsL7n1PRUFeM384A7Tmz7DCldvSqv0E/lkzSE45FxAR0kcYIbPMNb4c/4+UDPKYVKSmCRE+9vXLkGw9Z9s6+Y2lqpJtxzW6JAL3mB3IbE8fVUWsVn5eXxs2MDgKgpWYEIcPXHAj0c+qTRdo9gsdylF1wksXtILcvwaHdSLjegi/VQJwnseDryNY/66Ir23nL/yQzN22IVt9eaWi4qaNuOZ7jIK2tsjhifLYxMqGNgkZP2KdGzWlPJUbitdXoJR04CkAIbnwvC0BO+FAep9JYF17zlMFor5f/v3Y7oWnpspQBTh0hV9QenHyhxFS+dgqKKcodFm6kUikaYyN2nprbZnqqBSEhMhbiMTgGitS+98Y2xS3m/79iu3YG5vWm1TvNx52UWQL86wY+Nyiv+P3SuX9ULWuDLoqrlgBrxr6XJ5/TqqYGwm9eFDOjqwNoJ47gWKRGT+v3pYsb/XnUxpAFF1RVjIONBrFlvkVQCTPuKgCQbE2KxxGT2tkpdwHJ1o8te3HhHoozPIrk1ScvvQbl6wXPolFpdp1pDdL4qDD6B/THz36rpE9z2FkLrmNhSwJ8NBafmym3X3pxBP6W7d3X8GS4h2tFEw/ZHaN59AfXxB9zLn12Mm3gF/fOrcHreYAo9QDx41m/JkdKTb9DLrEBEmonrYdOUrUXyqjy/ppD0wLKETQHBro2swNVI2kgsvBiyRC7KnlRhI0duF+H46cmvrYnxH2D//XA1xOqnKXCSWLP7ZGTfIupgliAZALWE76pWj+YRu3oMLagO6uCHrtCdx361d1y4smBvgn6ia/OKOikg5k58DpeJs=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

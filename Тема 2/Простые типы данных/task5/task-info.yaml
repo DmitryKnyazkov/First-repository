@@ -1,0 +1,61 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: l7l9Gvs5diZ1STF1+Bqayvk2nGZ39Z4H5t8wKJQYLUJo4PNFgHPyPe1XE4jxfeM1Q2pTa0Lw1emQHZGyqLCdlLPReXqPxqrhBDYLv8LSuePCsOdoOmSMuHMqyR5K4vRebMQathtCWrZyMQMSt6hjTGeiNu6k4Odr9j5Iz6/3FYM=
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 193
+    length: 86
+    placeholder_text: '...  # TODO перевести скорость скачивания из байт в килобайты,
+      если 1 килобайт = 1024 байта'
+    initial_state:
+      length: 91
+      offset: 180
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: tjZTjhRssy3+XS6XLsC1Uw==
+  - offset: 304
+    length: 0
+    placeholder_text: '...  # TODO перевести время в секунды'
+    initial_state:
+      length: 37
+      offset: 286
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: mz0Q1cwpbarEiT7RZcq8Uw==
+  - offset: 404
+    length: 19
+    placeholder_text: '...  # TODO размер файла'
+    initial_state:
+      length: 24
+      offset: 390
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: o5yBPhHPjOf1M6I/0kOICu4n/NlvsFp6BKBrmZfGZijHLVwv04LRKi8yAAZNqaQoLVmC7g83SwNV3MBTBupKaQ==
+  - offset: 470
+    length: 22
+    placeholder_text: '...  # TODO стоимость файла'
+    initial_state:
+      length: 27
+      offset: 429
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: bN9d8177w/9bklDZrHwwYCIp4NorQfXpONeXHesYKeGxLUkohGWtllT9qGcYQG4z9qdbAC2CGYyiURTJeqxiyh4rCobtfh5MLiPhtGVvcX4=
+  encrypted_text: IO1dzaHju7GOsZkz5aPdcns2mFiuNMYT+qx2wvk4ECfHxl7whuvTLvRr6SQ9XwnwguKwe+UUl/kS1fAuUiOIUXbJcqi9N1D9UIxlRSuMYO//tiQryUqJliVWclYMa3UEuo+2+dIBppXFcZOETEWQx1gk605cS04XAL6eEfWfvl0EoaKEAa2stvGKkSw6ZpH9GwHMemK04gYLXP2PbXmSEkrcUvqT7eOVZpKLbH5SSNRLkJ6ulgUY4334rxfyBF8K/LZdYCBc9qACrS1X/eC0xinJkJw+FNJcvD0khlTWHjpJ7IqMhEE78IHuoFdtuU0SHppfpvhX87xnK+J0BjMnM9sIN0A0I5KrJdQO3VfpSAWYURzDtNUJr+q81KLr5dkOYMpIL4zj0dGULHj43WONOrv8y1rssudF+Pk6lF4BuKWIUBE4aXk91RuyFZfaLtQYXzIbU7hpc62YHN81KFDh3t95Qt0sPIZdSNLIBW/G0QfN4bHNMVyJ4gfeEk/sN+yvFl1nDTfpH5CYVF+umScqweLNxDvqNYJ9iQoRZFowI/Ap1CH7W9T15CjHkVGYtJY8NH7hpJLIOdrusOO9UsFPNqCDQfswv/o4Trfh2MGOlnlL3cOGtQbP09hXr5XamS8qlxtLkjcs4pUQbdBx8esDYJUlONb5M6vXoWjRNVm3vwYFErfKdV16BwpJ1WUOxA0G2A75/dU8j3wdvR7Mo7dJ80VO2YWHYqh0lbZxbPT/l7HytwwR6TyzNJWUzYspBBw+/+T3jYNS1HhIW/gMG6R0r212qD0dyIYIi3VSiLo85k/dTH68ZIPx/x4CN2FJmlhPKK6rbT2dflhI3hVd/6lAAKPMY3aE2FP59aEzIZRaLtQMj4yz76GNbHlajUatmjbJpcUO29Duiz1VNxlxEzt2lVcV5Vx3oit3I4i5pD6S5pNQF/Mc2HZm8OQeSI+ufgMA1yZpDlI4lR5N3EEyOyhCtExOy5/FxQUh4TOw+OBufXnnQGjc3GAZxt+SvBY+uAqtYTUeAplsk9TCo+lupNGnyTyk/tk9vhYBefAgzYPJadskoHCrC3tgPX26wUiLkpzN38EfYpnq0SnPlT3YFy9HAoNRqZ2VE30oK6zGf/9zY0A=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 12 Oct 2022 16:01:19 UTC
+record: -1

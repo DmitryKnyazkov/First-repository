@@ -1,0 +1,30 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: E1EiERCnxiM28BWTPBeQEollCUN44rJcvCC822aazPuiYjGrN3Xb3qokDClmp+Nc
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 97
+    length: 38
+    placeholder_text: '# TODO распечатать в столбик все имена'
+    initial_state:
+      length: 38
+      offset: 59
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: pZdbwRxWBlq8xgWYWuyU3BI8CZ70ZQ9Zt49iGkkqKKHXjK8cbZiCfopKI0RfnwsoU0CtrM7MOPfny+vvirYQPA==
+  encrypted_text: LHfVYyqa5rIZhFpW5Vd24AGt7o+enBBzHRISrYB6MDZWN5KBRMat8C9EGsMrbHYYdM1rOtbcE75tp22JCwTcaQ/tzvYMzIhuwXEz9+3/lwcn/YJX3Wh+o1U8dNfE8mBQUovT6tN0YN8RJiteAqQBSt8H42gYIB53eVGV0SOGXDE0mF/hRP/KmKvjdmzk4zOf/IdaJRkdYJBGCb7PRfX3yQ==
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 19 Oct 2022 16:56:33 UTC
+record: -1

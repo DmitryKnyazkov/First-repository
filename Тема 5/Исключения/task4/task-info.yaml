@@ -1,0 +1,30 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: true
+  encrypted_text: W+1Ysdo0y+vHO7LEZ8GQZ1G4HBIRsCtYY+bYh0yMcFLvRT5svXsoF9yCg8s3Lh5x
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 52
+    placeholder_text: |-
+      # TODO написать функцию remove
+      def remove():
+          ...
+    initial_state:
+      length: 52
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: tJu0Wn36hpN60v2tw5RY9LsZM3UWCPIUzunLRu6qcJRJTwY9jz2ZnTdxwOwpGFfLfuo62YxWvYhavNq1IqP8jy4oe6J5KqDiDMKZdG2UVN9P5T+hokLSFTb6StXpbII+UCrx4tSPYpSVm+pJ29ZilRkkYa6ZTx+NRJ6SnF1HABBmPJMdc058uOt359i9EoJQHTrwtV1oo/Miz2wabkJCJef5CtZwD+H0Sk1bWPOJUdpceAu5WYjpMHy8AAkyfx2JoD1HJ7HxYyii4o7BZHkDtzzQBmsA/keSxvcHlLxr6jnXdRgk0s8mUfLQGZ8AXvGuZDmUDc/vnLzIxn9MjRrykg==
+  encrypted_text: l7exSzq6xdZd2E6OinmQ1YEqO3ETuro+I2AACVx31vAf3myXDOEdTYXcQeN2nBFkomecMguTufJ32NtN0jp30RCQDS7yrzTPT0ds8TxxHtPjYihfs+jAc6eTUISFfLXqt1ewhlUHy8v3N4pxAlAsmWw4tqkWUyrCxE14/j0iuMWZBC6nCbNsj5TfEHb7EglsYKWTIKc1RJlMSQHFMNN8qBJA/p4YmC8dwj4E2CtXFi4Nlvm95rpNCnDn1RnPYVw/uBc6nNGzcJ+FVOzO+3WoaEYkkqvRdaGA72zyOliugHQ=
+  learner_created: false
+- name: __init__.py
+  visible: true
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

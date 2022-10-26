@@ -1,0 +1,40 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: qWtP6Yp4GXWBxindZ2gFQA==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 21
+    length: 0
+    placeholder_text: '...  # TODO найти площадь квадрата'
+    initial_state:
+      length: 34
+      offset: 15
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: JPWgNHYZ+jZs1o1ggWjTXQ==
+  - offset: 23
+    length: 13
+    placeholder_text: '# TODO распечатать результат'
+    initial_state:
+      length: 28
+      offset: 51
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: T4877OZE6wzXofxZSAk3GQ==
+  encrypted_text: soASJUhZbWF4lKgHbCc+DlzaxHe4oKMJ5n5wyUlYm0X/1eIogKkN8cpRlD1LdyElQ1+spm08ktig4wpq4Ik+Km24TIcjqvql03jw0EtR8QRZw0VZw1OWAuTy/1jGwB1S3aXHel5by2fZ4lXGCylDcLfJfh+kSl5JzMaqnZX3BEo=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 12 Oct 2022 15:30:30 UTC
+record: -1

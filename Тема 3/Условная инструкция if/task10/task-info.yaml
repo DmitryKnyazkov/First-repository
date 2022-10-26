@@ -1,0 +1,30 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: u1BRetHxmnAMN6T9RiSJBA==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 13
+    length: 54
+    placeholder_text: '(6 <= hour) and (hour < 12):  # TODO заменить цепочкой операторов'
+    initial_state:
+      length: 65
+      offset: 13
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: ZiAUUGGY1Pw+gIwT2keESA==
+  encrypted_text: KcFjApAdWKmoVCe+3WnKtA4M5nLmGueivWmZFSFWXEhBG7jeJIb9Bv89cBkAfhqRWdubY4KjJJ14QvAoxVuMZoS/5TviOTxyQCrJWlZ26xq0xc83uriH3g76O7nPzvyZ4h6zyOc0pGEKLfAeznUtctG3886MWelJ+hXQrtHkY3oklUKog961zL8f39EQEtDj
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 19 Oct 2022 15:58:25 UTC
+record: -1

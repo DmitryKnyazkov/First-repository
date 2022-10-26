@@ -1,0 +1,37 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: 6DAn5qk8uvFuOdwqbhbAAQ==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 39
+    placeholder_text: '# TODO завести счетчик для произведения'
+    initial_state:
+      length: 39
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: lwCiyQDYj20TOOyMKHq+1g==
+  - offset: 40
+    length: 35
+    placeholder_text: '# TODO посчитать произведение чисел'
+    initial_state:
+      length: 35
+      offset: 40
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: LRdKVOceDSXTLsmaoblYLMfJ8r4PKlS+KyWVneDNYRrkH8szxdWsAfjsTop67RfDRpsd/ysEIeuWNudam38t6zN1spkQBcEqcsfDaHvVvKgU4AOpwgiTFcch5PjgIgMD
+  encrypted_text: dbRf101Bcr/pf2v/sxoGz4WJ2QyEGeiAYfzKDZ+CNXGSmlaTcVv0RSP03yFrJGWkVlDy9O+I8/RwnOazRL9N9HztoqXo3h5SiwI2LR3bYmwJ1rJZtrmO43WaZV2NgpGlzDY9ZSJvHgDREFPzccpVmXEAT4bfUSfZd7Htvl37G3jlWzpcrjfkRxNj6n2UBj3s
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

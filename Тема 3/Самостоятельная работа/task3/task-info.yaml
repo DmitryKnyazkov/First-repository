@@ -1,0 +1,38 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: ctD6HoiLL4iZ2tRjZywH1RL7R4GBqkMx4c5DJrwhTvqXVAOV76yIb5rJqepDmSsC
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 14
+    length: 359
+    placeholder_text: |-
+      # TODO переписать через if-elif-else
+      if x > 0:
+          if y > 0:               # x > 0, y > 0
+              print("Первая четверть")
+          else:                   # x > 0, y < 0
+              print("Четвертая четверть")
+      else:
+          if y > 0:               # x < 0, y > 0
+              print("Вторая четверть")
+          else:                   # x < 0, y < 0
+              print("Третья четверть")
+    initial_state:
+      length: 359
+      offset: 14
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: rjUcxTJwdiVDalSmtLW0mpGwjsW8I3KGOvx6dEiR3sbC/rei3EfsIExXzyd0vO1PbPk1Ym3sPX7IHqhTPQJFm1XotHZ2VXois8EExzZ8c7X6VmT42xSFfgcdaLGX0dZDOV9E9bP46iyOEfS6rIRz49ABpMIbGTM5quU/f2DpQoVVHopAj9MrC1+1m7u943y05GioE6WPlg/PXNHIFSj+HmVsNXwZrYdFxx90ubc/b4xNaV5MeffltmOiyWQmTAqU4Y+YGs9ChBESPoyPJCW8kc6GQGtpeNOgE59NU20kBJCL97oiLI1YVLum6mxIO/B6w8Uyc0PDSfN0Y8MfsLsWzOIcQJ9Hhr4UYxSApA7YfQ2KYe7H2CzWjVDrFd7twAGqlsUeDnA3q73Zem3oODG7UF4m2z0CvILZJ2+j5AfcNn4bUEsraDOpbw8Q6OWdsmrA
+  encrypted_text: bIi8VqpFayUmcUFvDfOWHkBsMnJp76VuEW4BSOkQDgHJx1By7mbocJkt/Yg/JNDvGAUJuBIoQFVUr6d16GSVqY+kmdobTrmEv6iYohFD843ed4jMI4Ev5wUOoIWPM2JxeBrsJZIty314BpMoNiVXqcby/QmRjFAvrpm5bqSI1RajcBv9iiCHutvC/HUQDqb3NVIwkWIb/d7qK2RvmfY93UkWhk2YHFWVaKw11E2c1mWyan6cF19sX5wvfDTwHpomk8pdk+jK0R67g385nTpnh0748V3SCFJb0m0eS/KtYK3o0ZWz+AgzPbyqecga4bpq4LO3xQkd9LGXTm+c+U3GTzdQflwSlimOnOV4DXxXRRq/5D4T5ttHwhjEybjq8BXhtzNJ3QlhaXb8S+PBJ/jkOT86qjcOH45/9xoUqVmcyVj1ysWyZmyQ2CM2qjQa8SO/f/H74u/0DbgDQXk6BNpZLJVdzwCOxarZ0+EqqPTQOrtGRIOGXf4UTyEdvXcOX5VVedci5foQM9cYOhiP9vb73ZDmrNHtAN8a8bgRGHo6L/WEBjmvDkN/IDiuJZpxd2+71hz/YcGW9/AhkC6xBSSAn018HcTQnNe4EiN0iM3TnUA=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,70 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: u+hYbmz5Vv7HwjU/J50zErJB/80mCjDVHxetEev5TnhDrD/XDZwoxlboVAYxj/vWn2cJB0X53wMHRsu+DJogPNCNr2LZhGxn92XekIW8kRfZCOC30A6if1WwBV5RP1oy0HoVPFw19dSWrYAUM0QIHvyzoeNHYk7C/yJXIWhhjZU1P9XgSU5jvsfEHyOJjFGWFvanoYcBwLt+CWJmPpKgeXkgnowM66MusHuHrRzNe0JGfHF+f/0rFJmL0xz2SKp4
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 69
+    length: 57
+    placeholder_text: '...)  # TODO записать условие с помощью операторов сравнения'
+    initial_state:
+      length: 60
+      offset: 61
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: nkS34uHeRqDgjxq0mqBQ1A==
+  - offset: 155
+    length: 57
+    placeholder_text: '...)  # TODO записать условие с помощью операторов сравнения'
+    initial_state:
+      length: 60
+      offset: 143
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: eVpdRbZOZMRHUhrXdKKNBA==
+  - offset: 264
+    length: 56
+    placeholder_text: '...)  # TODO записать условие с помощью операторов сравнения'
+    initial_state:
+      length: 60
+      offset: 246
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: tZwEJS3W8ysGgcUIh+Mgmw==
+  - offset: 360
+    length: 55
+    placeholder_text: '...)  # TODO записать условие с помощью операторов сравнения'
+    initial_state:
+      length: 60
+      offset: 338
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: 8/SLHjnRWg8J7vkMsZkZOA==
+  - offset: 444
+    length: 56
+    placeholder_text: '...)  # TODO записать условие с помощью операторов сравнения'
+    initial_state:
+      length: 60
+      offset: 419
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+    encrypted_possible_answer: GTe6xcI5XsA6Wp92AOI7GA==
+  encrypted_text: nPQ7XjPLCBOe94Quu4JX58PwUyPKdzVfzvkf3GIWhnJw0zYfh/hZgA+g6gmcicJHE/l2NY7XNRvRDeR3IP5/58bsheIavlQsbuSQ3+1nA/Jk+qXysK5OpFITgwGd8VYnhom0H5cGNZjnPEnexO9LGGxuycuFf0hfT/HqDyHKglkWcR5cKtFkS2/ke+GA+VvLZNAuUmovYZHP4wgD6+fegEbaV8QppaeqEHbHEyrXP/SSxtOfk408OTql784bQ5ekKUCpFh5iCYz3YF7HA3TOdeiD+/bJgstq7AbfhOcAfcv80liqSBYsQZ+AQ+VkQ4oJiVvZUL26rdCJyV0FfSAoCtfq3hjjp7pz38zuMz1zvp6Exp6oNXocfqxPDw09V0QVzoA66MgD1Rx+TBNOT3hoVF3Xu5yFACya/QR81LCFZ9QH3mVLui3f1OFRawsRc24c39tGZErPIu9q0PBTyLbSCIVPJbOt6xUcHBhveUlY7p68pAvvgBod4CgeHY6dJcCNS2orQkmX+HZbe+XWsXBG6rYOu4yptDg9VMeZPu2Nq4rMJd3q8t+1Joq7CJt3OOlPWlRl9rRYvzmrLsnqx95mr3JQD/zyVym2Buh0pyzSrCFmE4pml1g1mrqeDyEaSgTSolHAaMcEvtKXIqqPpJoLFR/l+ONck6BTk6ifbRIxiT1LjxnBGV0wr4e3nlUgQ4YnpRNU3xwTTotSC08egaOqJAqM4C8YAWFqNR7XXr7JG+0Mr5A7il7a1XAP9W/20Fo9zM5dN3WNjoKhJm3SrrKyl3LGeNZfQM1iHY+z0ng8qsJzx7l42/1z9hvCdLY2tkhGXQveKRg7yIjOGnrYF2NF16M3bXqYNl7VpTRVjNk24OoPsljdyqCBM14yL7B3QIHXsG8jv6QtlznEo9hILFVUeDHxcbngK9dU3ivid2PnhkpJ9JkKhItOIwZhv2XqVcEkviaHBd66LLBr9W97fb2SC6cuNeWZpQEyQOMZ5H6AZIo=
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 19 Oct 2022 15:27:34 UTC
+record: -1

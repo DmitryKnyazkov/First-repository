@@ -1,0 +1,41 @@
+type: output
+files:
+- name: tests/output.txt
+  visible: false
+  encrypted_text: VyfdCVfCwPkjkKmWO8plNw==
+  learner_created: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 73
+    length: 0
+    placeholder_text: '...:  # TODO как получить последовательность целых чисел от
+      1 до 4 включительно?'
+    initial_state:
+      length: 80
+      offset: 26
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: SdkQ9kZiXK0LRDZ4ER93V8zFul4fiAhxj6w9Ml5TBCc=
+  - offset: 74
+    length: 0
+    placeholder_text: '...  # TODO печать очередной ступени'
+    initial_state:
+      length: 36
+      offset: 111
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: aQjirTiUa1Y+BldCcWE+qw==
+  encrypted_text: Habe37I5FkULCJybdp3DbLedbKqYqVlV/mz9dSOrmP0mviLkqW70KiN2Sh7B+KIpEjwKdWRMOy8n6kYynBVJVxVO5XYmQmVWpMgzsXFShuunbbgyrgLtssDsgTEuJkRSqtrW6BRpNuv8g+/CTmzxNSUDcQwaBMUj5KsoeFAeFW1pU37kB43IydQ539cLrL4uKVCfhNFzzTpHiUm/7p+ypu+dAriCiENRwt6TGTArSJ8YgzuGF0h07Ebbq6EzmKjfTX1RCL3tuZmke4KbgkyQ6cVfaZ82frwoMkWkelNrgCfAyR3hsD9/DAw1a1Ng1Hax
+  learner_created: false
+- name: __init__.py
+  visible: false
+  encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 19 Oct 2022 16:25:25 UTC
+record: -1
